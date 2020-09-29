@@ -2,13 +2,13 @@
             "languages": [{
     "lang_name": "English",
     "lang_code": "en",
-    "url_pattern": "/"
+    "url_pattern": "?"
   }],
     "translated_segments": [
   {
     "lang_name": "Suomi",
-    "lang_code": "fi",
-    "url_pattern": "/"
+    "lang_code":"es",
+    "url_pattern": "?"
   },
   {
     "source": "Legal",
