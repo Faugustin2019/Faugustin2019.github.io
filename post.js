@@ -1,6 +1,5 @@
  var linguJSON = {
-            "languages": [
-  {
+            "languages": [{
     "lang_name": "English",
     "lang_code": "en",
     "url_pattern": "/"
@@ -76,3 +75,4 @@
     "target": "Kaikki muut kolmannen osapuolen merkit ovat omistajiensa omaisuutta."
   }
 ]
+ };
