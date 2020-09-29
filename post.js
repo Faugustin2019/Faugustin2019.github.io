@@ -15,10 +15,7 @@ var linguJSON = {
     "source": "Legal",
     "target": "Oikeusperusta"
   },
-  {
-    "source": "",
-    "target": ""
-  },
+ 
   {
     "source": "Contents",
     "target": "Sisältö"
@@ -35,10 +32,7 @@ var linguJSON = {
     "source": "Warranty",
     "target": "Takuu"
   },
-  {
-    "source": "",
-    "target": ""
-  },
+ 
   {
     "source": "TRADEMARK NOTICES",
     "target": "TAVARAMERKKI-ILMOITUKSET"
@@ -67,10 +61,7 @@ var linguJSON = {
     "source": "Google Play and the Google Play logo are trademarks of Google LLC.",
     "target": "Google Play ja Google Play -logo ovat Google LLC:n tavaramerkkejä."
   },
-  {
-    "source": "",
-    "target": ""
-  },
+ 
   {
     "source": "All other third-party marks are the property of their respective owners.",
     "target": "Kaikki muut kolmannen osapuolen merkit ovat omistajiensa omaisuutta."
