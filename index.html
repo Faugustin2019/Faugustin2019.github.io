@@ -22,7 +22,7 @@
   <script type="text/javascript">
 window.onload = function() {
   String.prototype.removeExtraSpaces = function() {
-      return this.replace(/^\s+|\s+$/g, "");
+      return this.replace(/^\s+|\s+$/g, " ");
    }
 
     document.querySelectorAll('span').forEach(spanEl => {
