@@ -21,10 +21,6 @@
   
   <script type="text/javascript">
 window.onload = function() {
-  String.prototype.removeExtraSpaces = function() {
-      return this.replace(/\s+/g,' ').trim();
-   }
-
     document.querySelectorAll('span').forEach(spanEl => {
         spanEl.outerHTML = spanEl.innerHTML;
     });
@@ -33,7 +29,6 @@ window.onload = function() {
     });
      document.querySelectorAll('p').forEach(pEl => {
         pEl.removeAttribute('style');
-        pEl.innerHTML.removeExtraSpaces();
     });
 
 };
