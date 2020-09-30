@@ -10,6 +10,17 @@
     <!--<link rel="stylesheet" type="text/css" media="screen" href="style_lingu.css" />-->
   </head>
   
+  <script type="text/javascript">
+window.onload = function() {
+    document.querySelector('span').forEach(spanEl => {
+        spanEl.outerHTML = spanEl.innerHTML;
+    });
+};
+
+
+
+</script>
+  
 <body>
   <script type="text/javascript"src="post.js?version=5"></script>
   <script type="text/javascript" src="translation.min.js?version=3"></script>
