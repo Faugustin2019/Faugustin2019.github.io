@@ -781,8 +781,8 @@ var linguJSON = {
     "target": "Remove text?"
   },
   {
-    "source": "Back to Top &gt;&gt; ",
-    "target": "Haut de page &gt;&gt; "
+    "source": "Back to Top &gt;&gt;",
+    "target": "Haut de page &gt;&gt;"
   }
 ]
  };
