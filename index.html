@@ -34,6 +34,16 @@ window.onload = function() {
      document.querySelectorAll('p').forEach(pEl => {
         pEl.removeAttribute('style');
     });
+  
+    String.prototype.removeExtraSpaces = function() {
+      return this.replace(/\s+/g,' ').trim();
+   }
+  
+  document.querySelectorAll('p').forEach(pEl => {
+        pEl.removeAttribute('style');
+        pEl.innerHTML.removeExtraSpaces()
+        
+    });
 
 };
 
