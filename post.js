@@ -105,24 +105,24 @@ var linguJSON = {
     "target": "De pomp is niet bedoeld voor personen die niet in staat of niet bereid zijn om:"
   },
   {
-    "source": " Use the pump, CGM, and all other system components in accordance with their respective instructions for use",
-    "target": " de pomp, CGM en alle andere systeemcomponenten te gebruiken in overeenstemming met hun respectievelijke gebruiksinstructies"
+    "source": "Use the pump, CGM, and all other system components in accordance with their respective instructions for use",
+    "target": "de pomp, CGM en alle andere systeemcomponenten te gebruiken in overeenstemming met hun respectievelijke gebruiksinstructies"
   },
   {
-    "source": " Test BG levels as recommended by a healthcare provider",
-    "target": " BG-waarden te testen zoals aanbevolen door een zorgverlener"
+    "source": "Test BG levels as recommended by a healthcare provider",
+    "target": "BG-waarden te testen zoals aanbevolen door een zorgverlener"
   },
   {
-    "source": " Demonstrate adequate carbohydrate-counting skills",
-    "target": " voldoende vaardigheden te tonen bij het tellen van koolhydraten"
+    "source": "Demonstrate adequate carbohydrate-counting skills",
+    "target": "voldoende vaardigheden te tonen bij het tellen van koolhydraten"
   },
   {
-    "source": " Maintain sufficient diabetes self- care skills",
-    "target": " de vaardigheden voor zelfbehandeling van diabetes op peil te houden"
+    "source": "Maintain sufficient diabetes self- care skills",
+    "target": "de vaardigheden voor zelfbehandeling van diabetes op peil te houden"
   },
   {
-    "source": " See a healthcare provider(s) regularly",
-    "target": " regelmatig afspraken te maken met hun zorgverlener(s)"
+    "source": "See a healthcare provider(s) regularly",
+    "target": "regelmatig afspraken te maken met hun zorgverlener(s)"
   },
   {
     "source": "The user must also have adequate vision and/or hearing in order to recognize all functions of your pump, including alerts, alarms, and reminders.",
@@ -205,24 +205,24 @@ var linguJSON = {
     "target": "Uw pomp, zender of sensor NIET blootstellen aan:"
   },
   {
-    "source": " X-ray",
-    "target": " röntgenstraling"
+    "source": "X-ray",
+    "target": "röntgenstraling"
   },
   {
-    "source": " Computed Tomography (CT) scan",
-    "target": " computertomografische (CT) scan"
+    "source": "Computed Tomography (CT) scan",
+    "target": "computertomografische (CT) scan"
   },
   {
-    "source": " Magnetic Resonance Imaging (MRI)",
-    "target": " magnetische-resonantiebeeldvorming (MRI)"
+    "source": "Magnetic Resonance Imaging (MRI)",
+    "target": "magnetische-resonantiebeeldvorming (MRI)"
   },
   {
-    "source": " Positron Emission Tomography (PET) scan",
-    "target": " positronemissietomogram (PET)-scan"
+    "source": "Positron Emission Tomography (PET) scan",
+    "target": "positronemissietomogram (PET)-scan"
   },
   {
-    "source": " Other exposure to radiation",
-    "target": " andere blootstelling aan straling"
+    "source": "Other exposure to radiation",
+    "target": "andere blootstelling aan straling"
   },
   {
     "source": "The System is magnetic resonance (MR) unsafe. You must take off your pump, transmitter, and sensor and leave them outside the procedure room if you are going to have any of the above procedures.",
@@ -233,16 +233,16 @@ var linguJSON = {
     "target": "Naast het bovenstaande mag u uw pomp, zender of sensor NIET blootstellen aan:"
   },
   {
-    "source": " Pacemaker/Automatic Implantable Cardioverter Defibrillator (AICD) placement or reprogramming",
-    "target": " het inbrengen of herprogrammeren van een pacemaker/automatische implanteerbare cardioverter-defibrillator (AICD)"
+    "source": "Pacemaker/Automatic Implantable Cardioverter Defibrillator (AICD) placement or reprogramming",
+    "target": "het inbrengen of herprogrammeren van een pacemaker/automatische implanteerbare cardioverter-defibrillator (AICD)"
   },
   {
-    "source": " Cardiac Catheterization",
-    "target": " cardiale katheterisatie"
+    "source": "Cardiac Catheterization",
+    "target": "cardiale katheterisatie"
   },
   {
-    "source": " Nuclear Stress Test",
-    "target": " nucleaire stresstest"
+    "source": "Nuclear Stress Test",
+    "target": "nucleaire stresstest"
   },
   {
     "source": "You must take off your pump, transmitter, and sensor and leave them outside the procedure room if you are going to have any of the above medical procedures.",
@@ -253,12 +253,12 @@ var linguJSON = {
     "target": "Er zijn andere procedures waarbij voorzichtigheid geboden is:"
   },
   {
-    "source": " Laser Surgery – Your System can usually be worn during the procedure. However, some lasers can create interference and cause the System to alarm.",
-    "target": " Laseroperatie – Normaal gesproken kunt u uw systeem blijven dragen tijdens deze procedure. Sommige lasers kunnen echter interferentie veroorzaken, waardoor het systeem een alarm kan afgeven."
+    "source": "Laser Surgery – Your System can usually be worn during the procedure. However, some lasers can create interference and cause the System to alarm.",
+    "target": "Laseroperatie – Normaal gesproken kunt u uw systeem blijven dragen tijdens deze procedure. Sommige lasers kunnen echter interferentie veroorzaken, waardoor het systeem een alarm kan afgeven."
   },
   {
-    "source": " General Anesthesia – Depending on the equipment being used, you may or may not need to remove your System. Be sure to ask your healthcare provider.",
-    "target": " Narcose – Afhankelijk van de gebruikte apparatuur moet u mogelijk uw systeem verwijderen. Vergeet niet om dit aan uw zorgverlener te vragen."
+    "source": "General Anesthesia – Depending on the equipment being used, you may or may not need to remove your System. Be sure to ask your healthcare provider.",
+    "target": "Narcose – Afhankelijk van de gebruikte apparatuur moet u mogelijk uw systeem verwijderen. Vergeet niet om dit aan uw zorgverlener te vragen."
   },
   {
     "source": "There is no need to disconnect for electrocardiograms (EKGs) or colonoscopies. If you have questions, contact your local customer support.",
@@ -522,27 +522,27 @@ var linguJSON = {
   },
   {
     "source": "The pump provides an automated way to deliver basal and bolus insulin. Delivery can be fine-tuned based on up to six customizable Personal Profiles, each with up to 16 time-based settings for basal rate, carb ratio, correction factor, and target BG. In addition, the temp rate feature allows you to program a temporary basal rate change for up to 72 hours.",
-    "target": " De pomp biedt een geautomatiseerde manier om basale en bolusinsuline toe te dienen. De toediening kan worden afgesteld op basis van zes aanpasbare persoonlijke profielen, elk met maximaal 16 tijdsinstellingen voor basaalsnelheid, koolhydratenratio, correctiefactor en doel-BG. Daarnaast biedt de functie Tijdelijke snelheid de mogelijkheid om een tijdelijke verandering van de basaalsnelheid te programmeren voor maximaal 72 uur."
+    "target": "De pomp biedt een geautomatiseerde manier om basale en bolusinsuline toe te dienen. De toediening kan worden afgesteld op basis van zes aanpasbare persoonlijke profielen, elk met maximaal 16 tijdsinstellingen voor basaalsnelheid, koolhydratenratio, correctiefactor en doel-BG. Daarnaast biedt de functie Tijdelijke snelheid de mogelijkheid om een tijdelijke verandering van de basaalsnelheid te programmeren voor maximaal 72 uur."
   },
   {
-    "source": " The pump gives you the option of delivering a bolus all at once, or delivering a percentage over an extended period of time without navigating to different menus. You can also program a bolus more discreetly using the Quick Bolus feature, which can be used without looking at the pump, and can be programmed in increments of either units of insulin or grams of carbohydrate.",
-    "target": " De pomp biedt u de mogelijkheid om een bolus in een keer toe te dienen, of om een percentage toe te dienen over een langere periode, zonder dat u door verschillende menu’s hoeft te navigeren. U kunt een bolus ook op een discretere manier programmeren met behulp van de functie Snelle bolus, die kan worden gebruikt zonder dat u op de pomp hoeft te kijken en die kan worden geprogrammeerd in stappen van eenheden insuline of gram koolhydraten."
+    "source": "The pump gives you the option of delivering a bolus all at once, or delivering a percentage over an extended period of time without navigating to different menus. You can also program a bolus more discreetly using the Quick Bolus feature, which can be used without looking at the pump, and can be programmed in increments of either units of insulin or grams of carbohydrate.",
+    "target": "De pomp biedt u de mogelijkheid om een bolus in een keer toe te dienen, of om een percentage toe te dienen over een langere periode, zonder dat u door verschillende menu’s hoeft te navigeren. U kunt een bolus ook op een discretere manier programmeren met behulp van de functie Snelle bolus, die kan worden gebruikt zonder dat u op de pomp hoeft te kijken en die kan worden geprogrammeerd in stappen van eenheden insuline of gram koolhydraten."
   },
   {
-    "source": " From the Bolus screen, the “calculator within a calculator” feature allows you to enter multiple carbohydrate values and add them together. The insulin pump’s bolus calculator will recommend a bolus based on the entire amount of carbohydrates entered, which can help eliminate guesswork.",
-    "target": " De “calculator in een calculator”-functie op het bolusscherm geeft u de optie om meerdere koolhydratenwaarden in te voeren en ze bij elkaar op te tellen. De boluscalculator van de insulinepomp raadt een bolus aan op basis van de totale hoeveelheid ingevoerde koolhydraten, waardoor u minder hoeft te schatten."
+    "source": "From the Bolus screen, the “calculator within a calculator” feature allows you to enter multiple carbohydrate values and add them together. The insulin pump’s bolus calculator will recommend a bolus based on the entire amount of carbohydrates entered, which can help eliminate guesswork.",
+    "target": "De “calculator in een calculator”-functie op het bolusscherm geeft u de optie om meerdere koolhydratenwaarden in te voeren en ze bij elkaar op te tellen. De boluscalculator van de insulinepomp raadt een bolus aan op basis van de totale hoeveelheid ingevoerde koolhydraten, waardoor u minder hoeft te schatten."
   },
   {
-    "source": " The pump keeps track of the amount of active insulin from food and correction boluses (IOB). When programming additional food or correction boluses, the pump will subtract the amount of IOB from the recommended bolus if your BG is below the target set in your active Personal Profile. This can help prevent insulin stacking, which can lead to hypoglycemia (low BG).",
-    "target": " De pomp registreert de hoeveelheid actieve insuline (AI) van voedingsen correctiebolussen. Tijdens het programmeren van extra voedingsof correctiebolussen trekt de pomp de hoeveelheid AI af van de aanbevolen bolus indien uw BG lager is dan het doel dat is ingesteld in uw actieve persoonlijk profiel. Dit helpt bij het voorkomen van het ophopen van insuline, wat tot hypoglykemie (lage BG) kan leiden."
+    "source": "The pump keeps track of the amount of active insulin from food and correction boluses (IOB). When programming additional food or correction boluses, the pump will subtract the amount of IOB from the recommended bolus if your BG is below the target set in your active Personal Profile. This can help prevent insulin stacking, which can lead to hypoglycemia (low BG).",
+    "target": "De pomp registreert de hoeveelheid actieve insuline (AI) van voedingsen correctiebolussen. Tijdens het programmeren van extra voedingsof correctiebolussen trekt de pomp de hoeveelheid AI af van de aanbevolen bolus indien uw BG lager is dan het doel dat is ingesteld in uw actieve persoonlijk profiel. Dit helpt bij het voorkomen van het ophopen van insuline, wat tot hypoglykemie (lage BG) kan leiden."
   },
   {
-    "source": " You can program a number of reminders that will prompt you to retest your BG after a low or high BG is entered, as well as a “Missed Meal Bolus Reminder” which will alert you if a bolus isn’t entered during a specified period of time. If activated, these can help reduce the likelihood that you will forget to check your BG or bolus for meals.",
-    "target": " U kunt een aantal herinneringen programmeren waardoor u de oproep ontvangt om uw BG opnieuw te testen nadat een lage of hoge BG is ingevoerd, evenals “een herinnering voor gemiste maaltijdbolus”, die u waarschuwt als een bolus niet is ingevoerd tijdens een specifieke periode. Wanneer deze zijn geactiveerd, kan dat de kans verkleinen dat u uw BG of bolus voor maaltijden vergeet te controleren."
+    "source": "You can program a number of reminders that will prompt you to retest your BG after a low or high BG is entered, as well as a “Missed Meal Bolus Reminder” which will alert you if a bolus isn’t entered during a specified period of time. If activated, these can help reduce the likelihood that you will forget to check your BG or bolus for meals.",
+    "target": "U kunt een aantal herinneringen programmeren waardoor u de oproep ontvangt om uw BG opnieuw te testen nadat een lage of hoge BG is ingevoerd, evenals “een herinnering voor gemiste maaltijdbolus”, die u waarschuwt als een bolus niet is ingevoerd tijdens een specifieke periode. Wanneer deze zijn geactiveerd, kan dat de kans verkleinen dat u uw BG of bolus voor maaltijden vergeet te controleren."
   },
   {
-    "source": " You have the ability to view a variety of data right on your screen, including the time and amount of your last bolus, your total insulin delivery by day, as well as broken into basal, food bolus, and correction bolus.",
-    "target": " U hebt de mogelijkheid om uiteenlopende gegevens op uw scherm te bekijken, inclusief het tijdstip en hoeveelheid van uw laatste bolus, de totale toediening van insuline per dag en opgesplitst in basaal, voedingsbolus en correctiebolus."
+    "source": "You have the ability to view a variety of data right on your screen, including the time and amount of your last bolus, your total insulin delivery by day, as well as broken into basal, food bolus, and correction bolus.",
+    "target": "U hebt de mogelijkheid om uiteenlopende gegevens op uw scherm te bekijken, inclusief het tijdstip en hoeveelheid van uw laatste bolus, de totale toediening van insuline per dag en opgesplitst in basaal, voedingsbolus en correctiebolus."
   },
   {
     "source": "",
@@ -593,12 +593,12 @@ var linguJSON = {
     "target": "De volgende risico’s kunnen het gevolg zijn van een defecte pomp:"
   },
   {
-    "source": " possible hypoglycemia (low BG) from over-delivery of insulin due to a hardware defect or software anomaly.",
-    "target": " kans op hypoglykemie (lage BG) door een te hoge toediening van insuline als gevolg van een hardwaredefect of een softwarefout."
+    "source": "possible hypoglycemia (low BG) from over-delivery of insulin due to a hardware defect or software anomaly.",
+    "target": "kans op hypoglykemie (lage BG) door een te hoge toediening van insuline als gevolg van een hardwaredefect of een softwarefout."
   },
   {
-    "source": " hyperglycemia (high BG) and ketosis possibly leading to Diabetic Ketoacidosis (DKA) due to pump failure resulting in cessation of insulin delivery due to either a hardware defect, software anomaly, or infusion set failure. Having a backup method of insulin delivery greatly reduces your risk of severe hyperglycemia or DKA.",
-    "target": " hyperglykemie (hoge BG) en ketose, mogelijk met diabetische ketoacidose (DKA) als gevolg van een storing van de pomp en het stoppen van de insulinetoediening door een hardwaredefect, een softwarefout of een storing in de infusieset. Het hebben van een back-upmethode voor insulinetoediening vermindert het risico op ernstige hyperglykemie of DKA aanzienlijk."
+    "source": "hyperglycemia (high BG) and ketosis possibly leading to Diabetic Ketoacidosis (DKA) due to pump failure resulting in cessation of insulin delivery due to either a hardware defect, software anomaly, or infusion set failure. Having a backup method of insulin delivery greatly reduces your risk of severe hyperglycemia or DKA.",
+    "target": "hyperglykemie (hoge BG) en ketose, mogelijk met diabetische ketoacidose (DKA) als gevolg van een storing van de pomp en het stoppen van de insulinetoediening door een hardwaredefect, een softwarefout of een storing in de infusieset. Het hebben van een back-upmethode voor insulinetoediening vermindert het risico op ernstige hyperglykemie of DKA aanzienlijk."
   },
   {
     "source": "",
@@ -621,12 +621,12 @@ var linguJSON = {
     "target": "Andere risico’s in verband met het gebruik van CGM zijn:"
   },
   {
-    "source": " You will not get sensor glucose alerts when the alert function is turned off, your transmitter and pump are out of range, or when your pump is not showing sensor glucose readings. You might not notice alerts if you are unable to hear them or feel the vibration.",
-    "target": " u ontvangt geen bloedglucosewaarschuwingen van uw sensor wanneer de waarschuwingsfunctie is uitgeschakeld, uw zender en pomp buiten bereik zijn of wanneer uw pomp geen sensorglucosemetingen weergeeft. Het is mogelijk dat u waarschuwingen niet opmerkt als u ze niet kunt horen of de trilling niet voelt."
+    "source": "You will not get sensor glucose alerts when the alert function is turned off, your transmitter and pump are out of range, or when your pump is not showing sensor glucose readings. You might not notice alerts if you are unable to hear them or feel the vibration.",
+    "target": "u ontvangt geen bloedglucosewaarschuwingen van uw sensor wanneer de waarschuwingsfunctie is uitgeschakeld, uw zender en pomp buiten bereik zijn of wanneer uw pomp geen sensorglucosemetingen weergeeft. Het is mogelijk dat u waarschuwingen niet opmerkt als u ze niet kunt horen of de trilling niet voelt."
   },
   {
-    "source": " There are a number of risks as a result of the fact that the Dexcom G6 CGM takes readings from fluid below the skin (interstitial fluid) instead of blood. There are differences in how glucose is measured in the blood compared to how it is measured in interstitial fluid, and glucose is absorbed into the interstitial fluid slower than it is absorbed into the blood, which can cause CGM readings to lag behind readings from a BG meter.",
-    "target": " Er zijn een aantal risico’s in verband met het feit dat de Dexcom G6 CGM metingen uitvoert op de vloeistof onder de huid (interstitiële vloeistof) in plaats van bloed. Er zijn verschillen tussen de manier waarop glucose wordt gemeten in bloed en hoe deze wordt gemeten in interstitiële vloeistof. Bloedglucose wordt langzamer opgenomen in de interstitiële vloeistof dan in het bloed, waardoor CGM-waarden kunnen achterlopen op de waarden van een BG-meter."
+    "source": "There are a number of risks as a result of the fact that the Dexcom G6 CGM takes readings from fluid below the skin (interstitial fluid) instead of blood. There are differences in how glucose is measured in the blood compared to how it is measured in interstitial fluid, and glucose is absorbed into the interstitial fluid slower than it is absorbed into the blood, which can cause CGM readings to lag behind readings from a BG meter.",
+    "target": "Er zijn een aantal risico’s in verband met het feit dat de Dexcom G6 CGM metingen uitvoert op de vloeistof onder de huid (interstitiële vloeistof) in plaats van bloed. Er zijn verschillen tussen de manier waarop glucose wordt gemeten in bloed en hoe deze wordt gemeten in interstitiële vloeistof. Bloedglucose wordt langzamer opgenomen in de interstitiële vloeistof dan in het bloed, waardoor CGM-waarden kunnen achterlopen op de waarden van een BG-meter."
   },
   {
     "source": "",
@@ -662,39 +662,39 @@ var linguJSON = {
   },
   {
     "source": "BG testing supplies: meter, strips, control solution, lancets, meter batteries",
-    "target": " Benodigdheden voor het testen van BG: meter, strips, controleoplossing, lancetten, batterijen voor de meter"
+    "target": "Benodigdheden voor het testen van BG: meter, strips, controleoplossing, lancetten, batterijen voor de meter"
   },
   {
     "source": "Fast-acting carbohydrate to treat low BG",
-    "target": " Snelwerkende koolhydraten om lage BG te behandelen"
+    "target": "Snelwerkende koolhydraten om lage BG te behandelen"
   },
   {
     "source": "Extra snack for longer coverage than fast-acting carbohydrate",
-    "target": " Extra snack voor een langer effect dan snelwerkende koolhydraten"
+    "target": "Extra snack voor een langer effect dan snelwerkende koolhydraten"
   },
   {
     "source": "Glucagon emergency kit",
-    "target": " Noodpakket met glucagon"
+    "target": "Noodpakket met glucagon"
   },
   {
     "source": "Rapid-acting insulin and syringes or a prefilled insulin pen",
-    "target": " Flacon met snelwerkende insuline en spuiten of een voorgevulde insulinepen"
+    "target": "Flacon met snelwerkende insuline en spuiten of een voorgevulde insulinepen"
   },
   {
     "source": "Infusion sets (minimum of 2)",
-    "target": " Infusiesets (minimaal 2 stuks)"
+    "target": "Infusiesets (minimaal 2 stuks)"
   },
   {
     "source": "Insulin pump cartridges (minimum of 2)",
-    "target": " Reservoirs voor de insulinepomp (minimaal 2 stuks)"
+    "target": "Reservoirs voor de insulinepomp (minimaal 2 stuks)"
   },
   {
     "source": "Infusion site preparation products (antiseptic wipes, skin adhesive)",
-    "target": " Producten om de infusieplaats voor te bereiden (antiseptische doekjes, huidkleefmiddel)"
+    "target": "Producten om de infusieplaats voor te bereiden (antiseptische doekjes, huidkleefmiddel)"
   },
   {
     "source": "Diabetes identification card or jewelry",
-    "target": " Diabetesidentificatiekaart of -sieraad"
+    "target": "Diabetesidentificatiekaart of -sieraad"
   },
   {
     "source": "",
@@ -709,32 +709,32 @@ var linguJSON = {
     "target": "Er wordt een elektrische voeding (netadapter met micro-USB-connector) met de pomp meegeleverd. Controleer of het volgende gebeurt wanneer u uw voedingseenheid aansluit op de USB-poort van uw pomp voordat u de pomp gaat gebruiken:"
   },
   {
-    "source": " You hear an audible alert",
-    "target": " U hoort een geluidswaarschuwing"
+    "source": "You hear an audible alert",
+    "target": "U hoort een geluidswaarschuwing"
   },
   {
-    "source": " You see the green light illuminate from the edge around the Screen On/Quick Bolus button",
-    "target": " U ziet het groene licht om de rand van de knop Scherm aan/Snelle bolus oplichten"
+    "source": "You see the green light illuminate from the edge around the Screen On/Quick Bolus button",
+    "target": "U ziet het groene licht om de rand van de knop Scherm aan/Snelle bolus oplichten"
   },
   {
-    "source": " You feel a vibratory alert",
-    "target": " U voelt een waarschuwing in de vorm van een trilling"
+    "source": "You feel a vibratory alert",
+    "target": "U voelt een waarschuwing in de vorm van een trilling"
   },
   {
-    "source": " You see a charge symbol (lightning bolt) on the battery level indicator",
-    "target": " U ziet een laadsymbool (bliksemflits) op de batterijniveau-indicator"
+    "source": "You see a charge symbol (lightning bolt) on the battery level indicator",
+    "target": "U ziet een laadsymbool (bliksemflits) op de batterijniveau-indicator"
   },
   {
     "source": "In addition, before using your pump, ensure the following:",
     "target": "Controleer daarnaast het volgende voordat u de pomp gebruikt:"
   },
   {
-    "source": " Press the Screen On/Quick Bolus button to turn the screen on so that you can see the display",
-    "target": " Druk op de knop Scherm aan/Snelle bolus om het scherm aan te zetten zodat u de weergave kunt zien"
+    "source": "Press the Screen On/Quick Bolus button to turn the screen on so that you can see the display",
+    "target": "Druk op de knop Scherm aan/Snelle bolus om het scherm aan te zetten zodat u de weergave kunt zien"
   },
   {
-    "source": " When the display screen is on, the touchscreen responds to your finger tap",
-    "target": " Wanneer het weergavescherm aan is, reageert het aanraakscherm op aanrakingen van uw vingers"
+    "source": "When the display screen is on, the touchscreen responds to your finger tap",
+    "target": "Wanneer het weergavescherm aan is, reageert het aanraakscherm op aanrakingen van uw vingers"
   },
   {
     "source": "/!\\ PRECAUTION",
@@ -773,8 +773,8 @@ var linguJSON = {
     "target": "*Need to get translations from distributors for this heading"
   },
   {
-    "source": "**Need to get translations from distributors for this heading unless we get the okay to deviate from the English and come up with different headings since the \"CGM\" heading is so similar",
-    "target": "**Need to get translations from distributors for this heading unless we get the okay to deviate from the English and come up with different headings since the \"CGM\" heading is so similar"
+    "source": "**Need to get translations from distributors for this heading unless we get the okay to deviate from the English and come up with different headings since the \"CGM\"heading is so similar",
+    "target": "**Need to get translations from distributors for this heading unless we get the okay to deviate from the English and come up with different headings since the \"CGM\"heading is so similar"
   },
   {
     "source": "Remove text?",
