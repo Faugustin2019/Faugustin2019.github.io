@@ -11,18 +11,18 @@ var linguJSON = {
     "url_pattern": "?"
   }
 ],
-  "translated_segments":  [
+   "translated_segments":[
   {
     "source": "t:slim X2™ Insulin Pump with Control-IQ™ Technology",
-    "target": "t:slim X2™ Pompe à insuline intégrant la technologie Control-IQ™"
+    "target": "t:slim X2™ Insulinepomp met Control-IQ™-technologie"
   },
   {
     "source": "WARNINGS: Control-IQ technology should not be used in anyone under the age of six years old. Control-IQ technology should also not be used in patients who require less than a total daily insulin dose of 10 units per day or who weigh less than 55 pounds, as those are the required minimum values needed in order for Control-IQ technology to operate safely.",
-    "target": "AVERTISSEMENT: La technologie Control-IQ ne doit pas être utilisée chez les enfants de moins de six ans. La technologie Control-IQ ne doit pas non plus être utilisée chez les patients qui nécessitent moins d’une dose quotidienne totale d’insuline de 10 unités par jour ou qui pèsent moins de 24 kilogrammes, car ce sont les valeurs minimales requises pour que la technologie Control-IQ fonctionne en toute sécurité."
+    "target": "WAARSCHUWING: Control-IQ-technologie mag niet worden gebruikt bij kinderen jonger dan zes jaar. Control-IQ-technologie mag ook niet worden gebruikt bij patiënten die minder dan een totale dagelijkse insulinedosis van 10 eenheden per dag nodig hebben of die minder dan 24.9 kilo (55 pond) wegen, aangezien dit de vereiste minimumwaarden zijn die nodig zijn om de Control-IQ-technologie veilig te laten werken."
   },
   {
     "source": "Important Safety Information",
-    "target": "Informations importantes relatives à la sécurité"
+    "target": "Belangrijke veiligheidsinformatie"
   },
   {
     "source": "",
@@ -30,27 +30,27 @@ var linguJSON = {
   },
   {
     "source": "Indications for Use",
-    "target": "Indications d’utilisation"
+    "target": "Indicaties voor gebruik"
   },
   {
     "source": "The t:slim X2 insulin pump is intended for the subcutaneous delivery of insulin, at set and variable rates, for the management of diabetes mellitus in persons requiring insulin. The pump is able to reliably and securely communicate with compatible, digitally connected devices.",
-    "target": "La pompe à insuline t:slim X2 est conçue pour l’administration souscutanée d’insuline, à des débits définis et variables, pour la gestion du diabète sucré chez les personnes ayant besoin d’insuline. La pompe est en mesure de communiquer de manière fiable et sécurisée avec des appareils compatibles connectés."
+    "target": "De t:slim X2-insulinepomp is bedoeld voor de subcutane toediening van insuline, met vaste en variabele snelheden, voor de behandeling van diabetes mellitus bij personen die insuline nodig hebben. De pomp kan betrouwbaar en veilig communiceren met compatibele, digitaal aangesloten apparaten."
   },
   {
     "source": "Control-IQ technology is intended for use with a compatible integrated continuous glucose monitor (CGM) and the t:slim X2 insulin pump to automatically increase, decrease, and suspend delivery of basal insulin based on CGM readings and predicted glucose values. It can also deliver correction boluses when the glucose value is predicted to exceed a predefined threshold.",
-    "target": "La technologie Control-IQ est conçue pour être utilisée avec un système de Mesure Continue du Glucose (MCG) intégré compatible et la pompe à insuline t:slim X2 pour augmenter, diminuer et suspendre automatiquement l’administration d’insuline basale en fonction des mesures du MCG et des valeurs glycémiques prédites. Elle peut également administrer des bolus de correction lorsqu’il est prédit que la valeur glycémique dépasse un seuil prédéfini."
+    "target": "Control-IQ-technologie is bedoeld voor gebruik met een compatibele continue glucosemonitor (CGM) en de t:slim X2-insulinepomp om de toediening van basale insuline automatisch te verhogen, verlagen en op te schorten op basis van CGM-metingen en voorspelde bloedglucosewaarden. Het kan ook correctiebolussen toedienen wanneer wordt voorspeld dat de bloedglucosewaarde een vooraf gedefinieerde drempel overschrijdt."
   },
   {
     "source": "The pump is indicated for use in persons six years of age and greater.",
-    "target": "La pompe est indiquée pour une utilisation chez des individus à partir de 6 ans."
+    "target": "De pomp is geïndiceerd voor gebruik bij personen van zes jaar en ouder."
   },
   {
     "source": "The pump is intended for single patient use.",
-    "target": "La pompe est destinée à être utilisée par un seul patient."
+    "target": "De pomp is bestemd voor gebruik bij een en dezelfde patiënt."
   },
   {
     "source": "The pump is indicated for use with NovoRapid or Humalog U-100 insulin.",
-    "target": "La pompe est indiquée pour une utilisation avec de l’insuline U-100 NovoRapid ou Humalog."
+    "target": "De pomp is geïndiceerd voor gebruik met NovoRapid- of Humalog U-100-insuline."
   },
   {
     "source": "",
@@ -58,15 +58,15 @@ var linguJSON = {
   },
   {
     "source": "Contraindications",
-    "target": "Contre-indications"
+    "target": "Contra-indicaties"
   },
   {
     "source": "The t:slim X2 pump, transmitter, and sensor must be removed before Magnetic Resonance Imaging (MRI), Computed Tomography (CT) scan, or diathermy treatment. Exposure to MRI, CT, or diathermy treatment can damage the components.",
-    "target": "La pompe t:slim X2, le transmetteur et le capteur doivent être retirés avant tout examen par imagerie par résonance magnétique (IRM), tomodensitométrie (TDM) (scanner) ou tout traitement diathermique. L’exposition à un traitement IRM, TDM ou diathermique peut endommager ses composants."
+    "target": "De t:slim X2-pomp, -zender en -sensor moeten worden verwijderd voordat u magnetische-resonantiebeeldvorming (MRI), een computertomografiescan (CT-scan) of een diathermiebehandeling ondergaat. Blootstelling aan MRI, CT of een diathermiebehandeling kan de componenten beschadigen."
   },
   {
     "source": "DO NOT use Control-IQ technology if you are taking hydroxyurea, a medication used in the treatment of diseases including cancer and sickle cell anemia. Your Dexcom G6 CGM readings may be falsely elevated and result in over-delivery of insulin that could result in severe hypoglycemia.",
-    "target": "N’utilisez PAS la technologie Control-IQ si vous prenez de l’hydroxyurée, un médicament utilisé dans le traitement de maladies comme le cancer et la drépanocytose. Votre MCG Dexcom G6 peut renvoyer des mesures faussement élevées, entraînant alors l’administration d’une quantité d’insuline excessive et donc une grave hypoglycémie."
+    "target": "Gebruik GEEN Control-IQ-technologie als u hydroxyurea gebruikt, een medicijn dat wordt gebruikt voor de behandeling van ziekten zoals kanker en sikkelcelanemie. Uw Dexcom G6 CGM-metingen kunnen vals verhoogd zijn en dit kan resulteren in overmatige toediening van insuline, wat kan leiden tot ernstige hypoglykemie."
   },
   {
     "source": "",
@@ -82,111 +82,111 @@ var linguJSON = {
   },
   {
     "source": "t:slim X2 Insulin Pump Warnings",
-    "target": "Avertissements relatifs à la pompe à insuline t:slim X2"
+    "target": "Waarschuwingen t:slim X2-insulinepomp"
   },
   {
     "source": "DO NOT start to use your pump before reading the user guide. Failure to follow the instructions in this user guide can result in over delivery or under delivery of insulin. This can cause hypoglycemia (low BG) or hyperglycemia (high BG) events. If you have questions or need further clarification on your pump use, ask your healthcare provider or call your local customer support.",
-    "target": "NE commencez PAS à utiliser votre pompe avant d’avoir lu le guide d’utilisation. Le nonrespect des instructions du guide d’utilisation peut entraîner une administration d’insuline excessive ou insuffisante. Cela pourrait provoquer une hypoglycémie (glycémie basse) ou une hyperglycémie (glycémie élevée). Si vous avez des questions ou besoin d’une clarification supplémentaire concernant l’utilisation de votre pompe, adressez-vous à votre professionnel de santé ou contactez le service d’assistance à la clientèle local."
+    "target": "Start het gebruik van de pomp NIET voordat u de gebruikershandleiding hebt gelezen. Het niet volgen van de instructies in de gebruikershandleiding kan leiden tot een te hoge of te lage toediening van insuline. Dat kan resulteren in voorvallen van hypoglykemie (lage BG) of hyperglykemie (hoge BG). Bel de klantenservice in uw regio of raadpleeg uw zorgverlener als u vragen hebt of meer over het gebruik van uw pomp wilt weten."
   },
   {
     "source": "DO NOT start to use your pump before you have been appropriately trained on its use by a certified trainer or through the training materials available online if you are updating your pump. Consult with your healthcare provider for your individual training needs for the pump. Failure to complete the necessary training on your pump could result in serious injury or death.",
-    "target": "NE commencez PAS à utiliser votre pompe avant d’avoir été correctement formé à son utilisation par un formateur certifié ou d’avoir consulté les documents de formation disponibles en ligne si vous mettez à jour votre pompe. Contactez votre professionnel de santé pour déterminer vos besoins de formation personnels sur la pompe. L’absence de formation adéquate sur l’utilisation de votre pompe peut entraîner de graves blessures ou la mort."
+    "target": "Start het gebruik van de pomp NIET voordat u in het gebruik ervan bent voorgelicht door een gediplomeerd opleider of via het trainingsmateriaal online, als u uw pomp bijwerkt. Overleg met uw zorgverlener over uw individuele opleidingsbehoeften voor de pomp. Het niet afronden van de noodzakelijke opleiding voor de pomp kan ernstig letsel of overlijden tot gevolg hebben."
   },
   {
     "source": "Only U-100 Humalog and NovoRapid have been tested and found to be compatible for use with the pump. The use of lower or higher concentration insulin may cause over delivery or under delivery of insulin. This can cause hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "Seule l’insuline U-100 Humalog et NovoRapid a fait l’objet de tests et a été considérée comme étant compatible avec la pompe. L’utilisation d’insuline dont la concentration est inférieure ou supérieure peut entraîner une administration d’insuline insuffisante ou excessive. Cela pourrait provoquer une hypoglycémie (glycémie basse) ou une hyperglycémie (glycémie élevée)."
+    "target": "Alleen U-100 Humalog en NovoRapid zijn getest en compatibel bevonden voor gebruik met de pomp. Het gebruik van insuline met een lagere of hogere concentratie kan leiden tot een te hoge of te lage toediening van insuline. Dat kan resulteren in voorvallen van hypoglykemie (lage BG) of hyperglykemie (hoge BG)."
   },
   {
     "source": "DO NOT put any other drugs or medications in the pump. The pump has only been tested for continuous subcutaneous insulin infusion (CSII) with U-100 Humalog or U-100 NovoRapid insulin. The pump may be damaged if other medicines are used and an infusion may result in damage to health.",
-    "target": "NE placez AUCUNE autre substance ni AUCUN autre médicament dans la pompe. La pompe a été uniquement testée pour la perfusion souscutanée continue d’insuline (PSCI) U-100 Humalog ou U-100 NovoRapid. L’utilisation d’autres médicaments pourrait endommager la pompe et nuire à la santé en cas de perfusion."
+    "target": "Vul het reservoir van uw pomp NIET met andere medicijnen. De pomp is uitsluitend getest op continue subcutane infusie van insuline (CSII) met U-100 Humalog- of U-100 NovoRapid-insuline. De pomp kan beschadigd raken als andere geneesmiddelen worden gebruikt en een infusie kan de gezondheid schaden."
   },
   {
     "source": "The pump is not intended for anyone unable or unwilling to:",
-    "target": "La pompe n’est pas destinée aux personnes ne pouvant ou ne voulant pas :"
+    "target": "De pomp is niet bedoeld voor personen die niet in staat of niet bereid zijn om:"
   },
   {
-    "source": "» Use the pump, CGM, and all other system components in accordance with their respective instructions for use",
-    "target": "» utiliser la pompe, le MCG et tous les autres composants du système conformément à leur mode d’emploi respectif ;"
+    "source": " Use the pump, CGM, and all other system components in accordance with their respective instructions for use",
+    "target": " de pomp, CGM en alle andere systeemcomponenten te gebruiken in overeenstemming met hun respectievelijke gebruiksinstructies"
   },
   {
-    "source": "» Test BG levels as recommended by a healthcare provider",
-    "target": "» tester les niveaux de glycémie selon les recommandations du professionnel de santé ;"
+    "source": " Test BG levels as recommended by a healthcare provider",
+    "target": " BG-waarden te testen zoals aanbevolen door een zorgverlener"
   },
   {
-    "source": "» Demonstrate adequate carbohydrate-counting skills",
-    "target": "» faire preuve de capacités adéquates quant au calcul des glucides ;"
+    "source": " Demonstrate adequate carbohydrate-counting skills",
+    "target": " voldoende vaardigheden te tonen bij het tellen van koolhydraten"
   },
   {
-    "source": "» Maintain sufficient diabetes self- care skills",
-    "target": "» maintenir des aptitudes de prise en charge personnelle du diabète ;"
+    "source": " Maintain sufficient diabetes self- care skills",
+    "target": " de vaardigheden voor zelfbehandeling van diabetes op peil te houden"
   },
   {
-    "source": "» See a healthcare provider(s) regularly",
-    "target": "» consulter régulièrement le(s) professionnels de santé."
+    "source": " See a healthcare provider(s) regularly",
+    "target": " regelmatig afspraken te maken met hun zorgverlener(s)"
   },
   {
     "source": "The user must also have adequate vision and/or hearing in order to recognize all functions of your pump, including alerts, alarms, and reminders.",
-    "target": "L’utilisateur doit également avoir une vue et/ou une audition adéquates afin de reconnaître toutes les fonctions de la pompe, notamment les alertes, les alarmes et les rappels."
+    "target": "Ook het gezichtsvermogen en/of gehoor van de gebruiker moeten goed genoeg zijn om alle functies van uw pomp te herkennen, inclusief waarschuwingen, alarmen en herinneringen."
   },
   {
     "source": "DO NOT start to use your pump before consulting with your healthcare provider to determine which features are most appropriate for you. Only your healthcare provider can determine and help you adjust your basal rate(s), carb ratio(s), correction factor(s), target BG, and duration of insulin action. In addition, only your healthcare provider can determine your CGM settings and how you should use your sensor trend information to help you manage your diabetes. Incorrect settings can result in over delivery or under delivery of insulin. This can cause hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "NE commencez PAS à utiliser votre pompe avant d’avoir consulté votre professionnel de santé afin de déterminer les fonctionnalités qui vous conviennent le mieux. Seul votre professionnel de santé peut déterminer votre (vos) débit(s) basal (basaux), ratio(s) de glucides, facteur(s) de correction, glycémie cible et durée de l’action de l’insuline, et seul celui-ci peut vous aider à les régler. Par ailleurs, seul votre professionnel de santé peut déterminer les réglages de votre MCG et la manière dont vous devez utiliser les informations de tendances de votre capteur pour vous aider à gérer votre diabète. Des réglages incorrects peuvent entraîner une administration excessive ou insuffisante d’insuline. Cela pourrait provoquer une hypoglycémie (glycémie basse) ou une hyperglycémie (glycémie élevée)."
+    "target": "Start de pomp NIET voordat u met uw zorgverlener hebt besproken welke functies het meest geschikt zijn voor u. Alleen uw zorgverlener kan uw basaalsnelheid/-snelheden, koolhydratenratio(s), correctiefactor(en), doel-BG en duur van de insulinewerking bepalen en u helpen met het aanpassen daarvan. Bovendien kan alleen uw zorgverlener bepalen wat uw CGM-instellingen horen te zijn en hoe u de trendgegevens van uw sensor moet gebruiken bij de behandeling van uw diabetes. Onjuiste instellingen kunnen leiden tot een te hoge of te lage toediening van insuline. Dat kan resulteren in voorvallen van hypoglykemie (lage BG) of hyperglykemie (hoge BG)."
   },
   {
     "source": "ALWAYS be prepared to inject insulin with an alternative method if delivery is interrupted for any reason. Your pump is designed to deliver insulin reliably, but because it uses only rapid-acting insulin, you will not have long-acting insulin in your body. Failure to have an alternative method of insulin delivery can lead to very high BG or Diabetic Ketoacidosis (DKA).",
-    "target": "Vous devez TOUJOURS être préparé à injecter de l’insuline selon une autre méthode si l’administration est interrompue pour quelque raison que ce soit. Votre pompe est conçue pour administrer de l’insuline de manière fiable, mais comme elle utilise uniquement de l’insuline rapide, vous n’aurez pas d’insuline à action prolongée dans le corps. Si vous ne disposez pas d’une autre méthode d’administration d’insuline, vous pourriez souffrir une hyperglycémie grave ou une acidocétose diabétique (ACD)."
+    "target": "Zorg dat u er ALTIJD op bent voorbereid om insuline te injecteren via een andere methode, voor het geval dat de toediening door welke oorzaak dan ook wordt onderbroken. Uw pomp is ontworpen voor een betrouwbare toediening van insuline, maar omdat hij alleen snelwerkende insuline gebruikt, krijgt u geen langwerkende insuline in uw lichaam. Als u geen alternatieve methode voor insulinetoediening achter de hand houdt, loopt u het risico van zeer hoge BG of diabetische ketoacidose (DKA)."
   },
   {
     "source": "ONLY use cartridges and infusion sets with matching connectors and follow their instructions for use. Failure to do so may result in over delivery or under delivery of insulin and may cause hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "Vous devez UNIQUEMENT utiliser des réservoirs et des kits de perfusion avec des connecteurs adaptés et suivre leur mode d’emploi. Sinon, l’administration d’insuline pourrait être excessive ou insuffisante et entraîner une hypoglycémie ou une hyperglycémie."
+    "target": "Gebruik UITSLUITEND reservoirs en infusiesets voor insuline met passende slangconnectors en volg de instructies voor gebruik. Als u dit niet doet, kan een te hoge of te lage toediening van insuline het gevolg zijn, met voorvallen van hypoglykemie (lage BG) of hyperglykemie (hoge BG) tot gevolg."
   },
   {
     "source": "DO NOT place your infusion set on any scars, lumps, moles, stretch marks or tattoos. Placing your infusion set in these areas can cause swelling, irritation or infection. This can affect insulin absorption and cause high or low BG.",
-    "target": "NE placez PAS votre kit de perfusion sur des cicatrices, des bosses, des grains de beauté, des vergetures ou des tatouages. Le fait de placer votre kit de perfusion sur de telles zones pourrait provoquer des gonflements, des irritations ou des infections. Cela peut affecter l’absorption d’insuline et provoquer une hyperglycémie ou une hypoglycémie."
+    "target": "Plaats uw infusieset NIET op littekens, knobbels, moedervlekken, zwangerschapsstriemen of tatoeages. Als u uw infusieset op deze plaatsen aanbrengt, kan dat leiden tot zwelling, irritatie of infectie. Dit kan de absorptie van insuline aantasten en hoge of lage BG veroorzaken."
   },
   {
     "source": "ALWAYS carefully follow the instructions for use accompanying your infusion set for proper insertion and infusion site care, as failure to do so could result in over delivery or under delivery of insulin or infection.",
-    "target": "Suivez TOUJOURS attentivement le mode d’emploi fourni avec votre kit de perfusion pour une insertion et des soins appropriés au site de perfusion, faute de quoi vous pourriez provoquer une administration excessive ou insuffisante d’insuline ou une infection."
+    "target": "Volg ALTIJD de gebruiksaanwijzing van de infusieset voor correcte plaatsing en verzorging van de infusieplaats, omdat er anders te veel of te weinig insuline kan worden toegediend of infectie kan ontstaan."
   },
   {
     "source": "NEVER fill your tubing while your infusion set is connected to your body. Always ensure that the infusion set is disconnected from your body before filling the tubing. Failure to disconnect your infusion set from your body before filling the tubing can result in over delivery of insulin. This can cause hypoglycemia (low BG) events.",
-    "target": "NE remplissez JAMAIS votre tubulure alors que votre kit de perfusion est branché à votre corps. Vérifiez toujours que le kit de perfusion est débranché de votre corps avant de remplir la tubulure. Le fait de ne pas débrancher le kit de perfusion de votre corps avant le remplissage de la tubulure peut entraîner une administration excessive d’insuline. Cela pourrait provoquer une hypoglycémie (glycémie basse)."
+    "target": "Vul uw slang NOOIT wanneer uw infusieset is verbonden met uw lichaam. Zorg altijd dat de infusieset is ontkoppeld van uw lichaam voordat u de slang vult. Als u uw infusieset niet losmaakt van uw lichaam voordat u de slang vult, kan dit een te hoge toediening van insuline tot gevolg hebben. Dat kan resulteren in voorvallen van hypoglykemie (lage BG)."
   },
   {
     "source": "NEVER reuse cartridges or use cartridges other than those manufactured by Tandem Diabetes Care. Use of cartridges not manufactured by Tandem Diabetes Care or reuse of cartridges may result in over delivery or under delivery of insulin. This can cause hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "NE réutilisez JAMAIS les réservoirs et n’utilisez pas de réservoirs n’ayant pas été fabriqués par Tandem Diabetes Care. L’utilisation de réservoirs n’ayant pas été fabriqués par Tandem Diabetes Care ou la réutilisation de réservoirs peut entraîner une administration excessive ou insuffisante d’insuline. Cela pourrait provoquer une hypoglycémie (glycémie basse) ou une hyperglycémie (glycémie élevée)."
+    "target": "NOOIT reservoirs hergebruiken of reservoirs gebruiken die niet zijn gemaakt door Tandem Diabetes Care. Het gebruik van reservoirs die niet zijn geproduceerd door Tandem Diabetes Care of hergebruik van reservoirs kan leiden tot een te hoge of te lage toediening van insuline. Dat kan resulteren in voorvallen van hypoglykemie (lage BG) of hyperglykemie (hoge BG)."
   },
   {
     "source": "ALWAYS twist the tubing connector between the cartridge tubing and the infusion set tubing an extra quarter of a turn to ensure a secure connection. A loose connection can cause insulin to leak, resulting in under delivery of insulin. If the connection comes loose, disconnect the infusion set from your body before tightening. This can cause hyperglycemia (high BG).",
-    "target": "Tournez TOUJOURS le connecteur de tubulure entre la tubulure du réservoir et la tubulure du kit de perfusion d’un quart de tour supplémentaire afin de vous assurer que la connexion est solide. Une connexion lâche peut provoquer une fuite d’insuline, entraînant une administration insuffisante d’insuline. Si la connexion est lâche, débranchez le kit de perfusion de votre corps avant de la resserrer. Cela pourrait provoquer une hyperglycémie (glycémie élevée)."
+    "target": "Draai de slangconnector tussen de reservoirslang en de infusiesetslang ALTIJD een extra kwartslag aan om zeker te zijn van een stevige aansluiting. Door een losse aansluiting kan insuline lekken, waardoor er te weinig insuline wordt toegediend. Maak in het geval van een losse aansluiting de infusieset eerst los van uw lichaam voordat u de aansluiting vastdraait. Dat kan hyperglykemie (hoge BG) veroorzaken."
   },
   {
     "source": "DO NOT disconnect the tubing connector between the cartridge tubing and the infusion set tubing. If the connection comes loose, disconnect the infusion set from your body before tightening. Failure to disconnect before tightening can result in over delivery of insulin. This can cause hypoglycemia (low BG).",
-    "target": "NE déconnectez PAS le connecteur de tubulure entre la tubulure du réservoir et la tubulure du kit de perfusion. Si la connexion est lâche, débranchez le kit de perfusion de votre corps avant de la resserrer. Si vous ne débranchez pas le kit de perfusion avant de resserrer la connexion, l’administration d’insuline pourrait être excessive. Cela pourrait provoquer une hypoglycémie (glycémie basse)."
+    "target": "De slangconnector tussen de reservoirslang en de infusiesetslang NIET ontkoppelen. Maak in het geval van een losse aansluiting de infusieset eerst los van uw lichaam voordat u de aansluiting vastdraait. Als u de infusieset niet eerst losmaakt, kan dit een te hoge toediening van insuline tot gevolg hebben. Dat kan hypoglykemie (lage BG) veroorzaken."
   },
   {
     "source": "DO NOT remove or add insulin from a filled cartridge after loading onto the pump. This will result in an inaccurate display of the insulin level on the Home screen and you could run out of insulin before the pump detects an empty cartridge. This can cause very high BG, or Diabetic Ketoacidosis (DKA).",
-    "target": "NE retirez ou n’ajoutez PAS d’insuline à partir d’un réservoir rempli après son chargement sur la pompe. Cela entraînera l’affichage incorrect du niveau d’insuline sur l’écran Accueil et vous pourriez manquer d’insuline avant que la pompe détecte que le réservoir est vide. Cela peut entraîner une hyperglycémie sévère ou une acidocétose diabétique (ACD)."
+    "target": "GEEN insuline verwijderen uit of toevoegen aan een gevuld reservoir nadat deze in de pomp is geplaatst. Dit heeft een onnauwkeurige weergave van het insulineniveau op het startscherm tot gevolg en de insuline kan opraken voordat de pomp een leeg reservoir detecteert. Dit kan zeer hoge BG of diabetische ketoacidose (DKA) veroorzaken."
   },
   {
     "source": "DO NOT deliver a bolus until you have reviewed the calculated bolus amount on the pump display. If you deliver an insulin amount that is too high or too low, this could cause hypoglycemia (low BG) or hyperglycemia (high BG) events. You can always adjust the insulin units up or down before you decide to deliver your bolus.",
-    "target": "N’administrez PAS de bolus avant d’avoir vérifié la quantité de bolus calculée sur l’écran de la pompe. Si vous administrez une quantité d’insuline trop élevée ou trop faible, cela pourrait entraîner une hypoglycémie (glycémie basse) ou une hyperglycémie (glycémie élevée). Vous pouvez toujours augmenter ou diminuer les unités d’insuline avant de décider d’administrer votre bolus."
+    "target": "GEEN bolus toedienen voordat u de berekende bolushoeveelheid op het scherm van de pomp hebt gecontroleerd. Als u te veel of te weinig insuline toedient, kan dat resulteren in voorvallen van hypoglykemie (lage BG) of hyperglykemie (hoge BG). U kunt de eenheden insuline altijd hoger of lager instellen voordat u de bolus toedient."
   },
   {
     "source": "DO NOT allow small children (either pump users or non-users) to ingest small parts, such as the rubber USB port cover and cartridge components. Small parts could pose a choking hazard. If ingested or swallowed, these small component pieces may cause internal injury or infection.",
-    "target": "NE laissez PAS les jeunes enfants (qu’ils soient ou non utilisateurs de la pompe) ingérer des petites pièces, telles que le cache du port USB en caoutchouc et les composants du réservoir. Les petites pièces peuvent présenter un risque d’étouffement. S’ils sont ingérés ou avalés, ces petits composants peuvent entraîner des lésions internes ou des infections."
+    "target": "Laat NIET toe dat kleine kinderen (zowel pompgebruikers als niet-gebruikers) kleine onderdelen inslikken, zoals de rubberen USB-poortafdekking of onderdelen van het reservoir. Kleine onderdelen kunnen een verstikkingsgevaar opleveren. Wanneer deze kleine onderdelen worden ingeslikt, kunnen ze inwendig letsel of infectie veroorzaken."
   },
   {
     "source": "The pump includes parts (such as the USB cable and infusion set tubing) that could pose a strangulation or asphyxiation hazard. ALWAYS use the appropriate length of infusion set tubing and arrange cables and tubing to minimize the risk of strangulation. ENSURE that these parts are stored in a secure place when not in use.",
-    "target": "La pompe comporte des pièces (telles que le câble USB et la tubulure du kit de perfusion) pouvant présenter un risque de strangulation ou d’asphyxie. Utilisez TOUJOURS une longueur de tubulure du kit de perfusion adéquate, et disposez les câbles et la tubulure de manière à minimiser le risque de strangulation. ASSUREZVOUS que ces pièces sont rangées en lieu sûr lorsqu’elles ne sont pas utilisées."
+    "target": "De pomp bevat onderdelen (zoals de USB-kabel en de slang van de infusieset) die een risico van verwurging of verstikking kunnen opleveren. Gebruik ALTIJD de juiste lengte infusiesetslang en leg de kabels en slangetjes zodanig dat het risico van verwurging wordt geminimaliseerd. ZORG ERVOOR dat deze onderdelen op een veilige plaats worden bewaard wanneer ze niet worden gebruikt."
   },
   {
     "source": "For patients who do not self-manage their disease, the Security PIN function should ALWAYS be on when the pump is not being used by a caregiver. The Security PIN function is intended to prevent inadvertent screen taps or button presses that may lead to insulin delivery or changes in the pump settings. These changes can potentially lead to hypoglycemic or hyperglycemic events.",
-    "target": "Pour les patients qui ne gèrent pas eux-mêmes leur maladie, la fonction Code PIN doit TOUJOURS être activée lorsque la pompe n’est pas utilisée par un soignant. La fonction Code PIN est destinée à empêcher toute pression accidentelle d’un bouton pouvant entraîner une administration d’insuline ou des modifications des réglages de la pompe. De telles modifications pourraient provoquer des incidents d’hypoglycémie ou d’hyperglycémie."
+    "target": "Bij patiënten die hun ziekte niet zelf behandelen, moet de functie Beveiligingscode ALTIJD aan zijn wanneer de pomp niet wordt gebruikt door een zorgverlener. De functie Beveiligingscode is bedoeld om te voorkomen dat het scherm per ongeluk wordt aangetikt of knoppen worden ingedrukt waardoor insuline wordt toegediend of pompinstellingen worden gewijzigd. Zulke wijzigingen zouden kunnen leiden tot voorvallen van hypo- of hyperglykemische episodes."
   },
   {
     "source": "For patients whose insulin administration is managed by a caregiver, ALWAYS turn off the Quick Bolus feature to avoid inadvertent bolus delivery. If the Security PIN is turned on, the Quick Bolus feature is automatically disabled. Inadvertent screen taps, button presses, or tampering with the insulin pump could result in over delivery or under delivery of insulin. This can cause hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "Pour les patients dont l’administration d’insuline est gérée par un soignant, désactivez TOUJOURS la fonction Bolus rapide pour éviter toute administration accidentelle de bolus. Si la fonction Code PIN est activée, la fonction Bolus rapide se désactive automatiquement. Les pressions accidentelles sur un bouton ou sur l’écran ou les modifications de la pompe à insuline pourraient entraîner un surdosage ou un sous-dosage lors de l’administration d’insuline. Cela pourrait provoquer une hypoglycémie (glycémie basse) ou une hyperglycémie (glycémie élevée)."
+    "target": "Bij patiënten voor wie de insulinetoediening wordt beheerd door een verzorger, moet de functie Snelle bolus ALTIJD worden uitgeschakeld om onbedoelde toediening van een bolus te voorkomen. Als de Beveiligingscode is ingeschakeld, is de functie Snelle bolus automatisch uitgeschakeld. Per ongeluk op het scherm tikken, op knoppen drukken of manipuleren van de insulinepomp kan leiden tot te veel of te weinig toegediende insuline. Dat kan resulteren in voorvallen van hypoglykemie (lage BG) of hyperglykemie (hoge BG)."
   },
   {
     "source": "",
@@ -194,79 +194,79 @@ var linguJSON = {
   },
   {
     "source": "Radiology and Medical Procedures and Your t:slim X2 System",
-    "target": "Procédures radiologiques et médicales et votre système t:slim X2"
+    "target": "Radiologie en medische procedures en uw t:slim X2-systeem"
   },
   {
     "source": "ALWAYS notify the provider/technician about your diabetes and your pump. If you need to discontinue use of the pump for medical procedures, follow your healthcare provider’s instructions to replace missed insulin when you reconnect to the pump. Check your BG before disconnecting from the pump and again when you reconnect and treat high BG levels as recommended by your healthcare provider.",
-    "target": "Informez TOUJOURS l’opérateur/technicien de votre diabète et de votre pompe. Si vous devez interrompre l’utilisation de la pompe pour des procédures médicales, suivez les instructions de votre professionnel de santé pour remplacer l’insuline manquée lorsque vous vous rebranchez à la pompe. Vérifiez votre glycémie avant de vous débrancher de la pompe et à nouveau lorsque vous vous rebranchez, et traitez les hyperglycémies selon les recommandations de votre professionnel de santé."
+    "target": "Stel ALTIJD uw zorgverlener/de laborant op de hoogte van uw diabetes en uw pomp. Als u het gebruik van de pomp moet stoppen in verband met een medische ingreep, volg dan de instructies van uw zorgverlener voor het inhalen van gemiste insuline wanneer u de pomp weer aansluit. Controleer uw BG voordat u de pomp ontkoppelt en opnieuw wanneer u die aansluit, en behandel hoge BG zoals aanbevolen door uw zorgverlener."
   },
   {
     "source": "DO NOT expose your pump, transmitter, or sensor to:",
-    "target": "N’exposez PAS votre pompe, votre transmetteur ou votre capteur à :"
+    "target": "Uw pomp, zender of sensor NIET blootstellen aan:"
   },
   {
-    "source": "» X-ray",
-    "target": "» des rayons X ;"
+    "source": " X-ray",
+    "target": " röntgenstraling"
   },
   {
-    "source": "» Computed Tomography (CT) scan",
-    "target": "» un balayage tomodensitométrique (TDM) ;"
+    "source": " Computed Tomography (CT) scan",
+    "target": " computertomografische (CT) scan"
   },
   {
-    "source": "» Magnetic Resonance Imaging (MRI)",
-    "target": "» une imagerie par résonance magnétique (IRM) ;"
+    "source": " Magnetic Resonance Imaging (MRI)",
+    "target": " magnetische-resonantiebeeldvorming (MRI)"
   },
   {
-    "source": "» Positron Emission Tomography (PET) scan",
-    "target": "» une tomographie par émission de positons (TEP) ;"
+    "source": " Positron Emission Tomography (PET) scan",
+    "target": " positronemissietomogram (PET)-scan"
   },
   {
-    "source": "» Other exposure to radiation",
-    "target": "» toute autre exposition à des rayonnements."
+    "source": " Other exposure to radiation",
+    "target": " andere blootstelling aan straling"
   },
   {
     "source": "The System is magnetic resonance (MR) unsafe. You must take off your pump, transmitter, and sensor and leave them outside the procedure room if you are going to have any of the above procedures.",
-    "target": "Le système est incompatible avec la résonance magnétique (RM). Si vous devez subir l’une des procédures ci-dessus, vous devez retirer votre pompe, votre transmetteur et votre capteur et les laisser hors de la salle d’opération."
+    "target": "Het systeem is niet veilig voor magnetische resonantie (MR). U moet uw pomp, zender en sensor losmaken en ze achterlaten buiten de ruimte waar de procedure plaatsvindt als u een van de bovenstaande procedures moet ondergaan."
   },
   {
     "source": "In addition to the above, DO NOT expose your pump, transmitter, or sensor to:",
-    "target": "En plus de ce qui précède, n’exposez PAS votre pompe, votre transmetteur ou votre capteur à :"
+    "target": "Naast het bovenstaande mag u uw pomp, zender of sensor NIET blootstellen aan:"
   },
   {
-    "source": "» Pacemaker/Automatic Implantable Cardioverter Defibrillator (AICD) placement or reprogramming",
-    "target": "» un placement ou une reprogrammation de pacemaker / défibrillateur automatique implantable (DAI) ;"
+    "source": " Pacemaker/Automatic Implantable Cardioverter Defibrillator (AICD) placement or reprogramming",
+    "target": " het inbrengen of herprogrammeren van een pacemaker/automatische implanteerbare cardioverter-defibrillator (AICD)"
   },
   {
-    "source": "» Cardiac Catheterization",
-    "target": "» un cathétérisme cardiaque ;"
+    "source": " Cardiac Catheterization",
+    "target": " cardiale katheterisatie"
   },
   {
-    "source": "» Nuclear Stress Test",
-    "target": "» une scintigraphie cardiaque avec épreuve d’effort."
+    "source": " Nuclear Stress Test",
+    "target": " nucleaire stresstest"
   },
   {
     "source": "You must take off your pump, transmitter, and sensor and leave them outside the procedure room if you are going to have any of the above medical procedures.",
-    "target": "Si vous devez subir l’une des procédures médicales ci-dessus, vous devez retirer votre pompe, votre transmetteur et votre capteur et les laisser hors de la salle d’opération."
+    "target": "U moet uw pomp, zender en sensor losmaken en ze achterlaten buiten de ruimte waar de procedure plaatsvindt als u een van de bovenstaande medische procedures moet ondergaan."
   },
   {
     "source": "There are other procedures where you should proceed with caution:",
-    "target": "D’autres procédures exigent une attention particulière :"
+    "target": "Er zijn andere procedures waarbij voorzichtigheid geboden is:"
   },
   {
-    "source": "» Laser Surgery – Your System can usually be worn during the procedure. However, some lasers can create interference and cause the System to alarm.",
-    "target": "» chirurgie au laser – En général, vous pouvez porter votre Système pendant la procédure. Cependant, certains lasers peuvent créer des interférences et déclencher une alarme du Système ;"
+    "source": " Laser Surgery – Your System can usually be worn during the procedure. However, some lasers can create interference and cause the System to alarm.",
+    "target": " Laseroperatie – Normaal gesproken kunt u uw systeem blijven dragen tijdens deze procedure. Sommige lasers kunnen echter interferentie veroorzaken, waardoor het systeem een alarm kan afgeven."
   },
   {
-    "source": "» General Anesthesia – Depending on the equipment being used, you may or may not need to remove your System. Be sure to ask your healthcare provider.",
-    "target": "» anesthésie générale – En fonction de l’équipement utilisé, vous pourriez avoir besoin de retirer votre Système. Assurez-vous de poser la question à votre professionnel de santé."
+    "source": " General Anesthesia – Depending on the equipment being used, you may or may not need to remove your System. Be sure to ask your healthcare provider.",
+    "target": " Narcose – Afhankelijk van de gebruikte apparatuur moet u mogelijk uw systeem verwijderen. Vergeet niet om dit aan uw zorgverlener te vragen."
   },
   {
     "source": "There is no need to disconnect for electrocardiograms (EKGs) or colonoscopies. If you have questions, contact your local customer support.",
-    "target": "Il n’est pas nécessaire de débrancher le système pour les électrocardiogrammes (ECG) ou les coloscopies. Si vous avez des questions, contactez le service d’assistance à la clientèle local."
+    "target": "Het is niet nodig om het systeem los te koppelen voor een elektrocardiogram (ECG) of een colonoscopie. Neem contact op met de klantenservice in uw regio als u vragen hebt."
   },
   {
     "source": "DO NOT use the pump if you have a condition which, in the opinion of your healthcare provider, would put you at risk. Examples of individuals who should not use the pump include those with uncontrolled thyroid disease, renal failure (e.g. dialysis or eGFR <30), hemophilia, or another major bleeding disorder, or unstable cardiovascular disease.",
-    "target": "N’utilisez PAS la pompe si vous êtes atteint(e) d’une maladie qui, de l’avis de votre professionnels de santé, vous exposerait à un risque. Les patients qui ne devraient pas utiliser la pompe comprennent notamment ceux atteints d’une maladie thyroïdienne non contrôlée, d’insuffisance rénale (par exemple, dialyse ou DFGe < 30), d’hémophilie ou d’un autre trouble hémorragique majeur ou d’une maladie cardiovasculaire instable."
+    "target": "Gebruik de pomp NIET als u een aandoening heeft die u naar het oordeel van uw zorgverlener in gevaar zou kunnen brengen. Voorbeelden van personen die de pomp niet mogen gebruiken zijn personen met onbeheersbare schildklieraandoeningen, nierfalen (m.a.w. dialyse of eGFR <30), hemofilie of andere bloedingsstoornissen, of instabiele cardiovasculaire aandoeningen."
   },
   {
     "source": "",
@@ -274,43 +274,43 @@ var linguJSON = {
   },
   {
     "source": "Using Dexcom G6 with Your t:slim X2 Insulin Pump",
-    "target": "Utilisation de Dexcom G6 avec votre pompe à insuline t:slim X2"
+    "target": "Gebruik van Dexcom G6 met uw t:slim X2-insulinepomp"
   },
   {
     "source": "DO NOT ignore symptoms of high and low glucose. If your sensor glucose alerts and readings do not match your symptoms, measure your BG with a BG meter even if your sensor is not reading in the high or low range.",
-    "target": "N’ignorez PAS les symptômes liés à une glycémie élevée et faible. Si les alertes et les mesures glycémiques du capteur ne correspondent pas à vos symptômes, mesurez votre glycémie à l’aide d’un lecteur de glycémie, même si votre capteur n’indique pas de taux dans la plage haute ou basse."
+    "target": "Negeer GEEN symptomen van een te hoge of te lage bloedglucose. Als de bloedglucosewaarschuwingen en -waarden van de sensor niet overeenkomen met uw symptomen, moet u uw BG meten met een bloedglucosemeter, zelfs als uw sensor waarden weergeeft die niet binnen het hoge of lage bereik vallen."
   },
   {
     "source": "DO NOT ignore sensor wire fractures. Sensors may fracture on rare occasions. If a sensor wire breaks and no portion of it is visible above the skin, do not attempt to remove it. Seek professional medical help if you have symptoms of infection or inflammation (redness, swelling, or pain) at the insertion site. If you experience a broken sensor wire, please report this to your local customer support.",
-    "target": "N’ignorez PAS un fil de capteur endommagé. Les capteurs peuvent se casser à de rares occasions. Si un fil de capteur se casse et qu’aucune partie n’est visible sur la peau, n’essayez pas de le retirer. Demandez une aide médicale professionnelle si vous constatez des symptômes d’infection ou d’inflammation, comme des rougeurs, des gonflements ou des douleurs, au niveau du site d’insertion. Signalez toute rupture de fil de capteur à votre service client."
+    "target": "Negeer GEEN breuken in de sensordraad. Sensoren kunnen heel af en toe breken. Als een sensordraad is gebroken en er geen deel boven de huid zichtbaar is, mag u niet proberen de sensor te verwijderen. Roep professionele medische hulp in als u symptomen van infectie of ontsteking (roodheid, zwelling of pijn) ondervindt op de inbrengplaats. Meld het aan de klantenservice in uw regio als u met een gebroken sensordraad te maken krijgt."
   },
   {
     "source": "DO NOT use Dexcom G6 CGM in pregnant women or persons on dialysis. The System is not approved for use in pregnant women or persons on dialysis and has not been evaluated in these populations. Sensor glucose readings may be inaccurate in these populations and could result in you missing severe hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "N’utilisez PAS le MCG Dexcom G6 chez les femmes enceintes ou chez les patients sous dialyse. Le système n’est pas approuvé pour une utilisation chez les femmes enceintes ou chez les personnes sous dialyse et n’a pas été évalué au sein de ces populations. Les mesures glycémiques du capteur chez ces populations pourraient être imprécises ; à cause de cela, vous pourriez passer à côté d’une hypoglycémie (glycémie basse) ou d’une hyperglycémie (glycémie élevée) sévère."
+    "target": "Gebruik de Dexcom G6 CGM NIET bij zwangere vrouwen of bij personen die dialyse ondergaan. Het systeem is niet goedgekeurd voor gebruik bij zwangere vrouwen of personen die dialyse ondergaan en is niet beoordeeld in deze populaties. Sensorglucosemetingen kunnen in deze populaties onnauwkeurig zijn, waardoor u ernstige voorvallen van hypoglykemie (lage BG) of hyperglykemie (hoge BG) mogelijk niet opmerkt."
   },
   {
     "source": "DO NOT use Dexcom G6 CGM in critically ill patients. It is not known how different conditions or medications common to the critically ill population may affect the performance of the System. Sensor glucose readings may be inaccurate in critically ill patients, and solely relying on the sensor glucose alerts and readings for treatment decisions could result in you missing severe hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "N’utilisez PAS le MCG Dexcom G6 chez les patients en phase critique. La manière dont les différentes conditions ou les différents médicaments commun(e)s à la population en phase critique pourraient influer sur la performance du système est inconnue. Les mesures glycémiques du capteur chez les populations de patients en phase critique pourraient être imprécises ; si vous vous appuyez uniquement sur les alertes et les mesures glycémiques du capteur pour prendre les décisions de traitement, vous pourriez passer à côté d’une hypoglycémie (glycémie basse) ou d’une hyperglycémie (glycémie élevée) sévère."
+    "target": "Gebruik de Dexcom G6 CGM NIET bij ernstig zieke patiënten. Het is niet bekend hoe verschillende omstandigheden en medicijnen die veel voorkomen bij ernstig zieke personen de prestaties van het systeem kunnen beïnvloeden. Bij ernstig zieke patiënten kunnen sensorglucosemetingen onnauwkeurig zijn en als geheel wordt vertrouwd op bloedglucosewaarschuwingen en -waarden van de sensor, kan dat ertoe leiden dat ernstige voorvallen van hypoglykemie (lage BG) of hyperglykemie (hoge BG) niet wordt opgemerkt."
   },
   {
     "source": "DO NOT insert the sensor in sites other than the abdomen (belly) or upper buttocks (for ages 6–17 only). Other sites have not been studied and are not approved. Use in other sites might cause sensor glucose readings to be inaccurate and could result in you missing severe hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "N’insérez PAS le capteur dans des sites autres que l’abdomen (ventre) ou la partie haute des fesses (pour les utilisateurs de 6 à 17 ans uniquement). Les autres sites n’ont pas été étudiés et ne sont pas approuvés. L’utilisation d’autres sites pourrait donner des mesures glycémiques du capteur imprécises ; à cause de cela, vous pourriez passer à côté d’une hypoglycémie (glycémie basse) ou d’une hyperglycémie (glycémie élevée) sévère."
+    "target": "Breng de sensor NIET op andere locaties in dan de buik of het bovenste deel van de billen (alleen voor de leeftijd 6–17). Andere locaties zijn niet onderzocht en zijn niet goedgekeurd. Door gebruik op andere locaties kunnen sensorglucosemetingen onnauwkeurig zijn, waardoor u ernstige hypoglykemie (lage BG) of hyperglykemie (hoge BG) mogelijk niet opmerkt."
   },
   {
     "source": "DO NOT expect CGM alerts until after the 2-hour startup. You will NOT get any sensor glucose readings or alerts until after the 2-hour startup ends. During this time you might miss severe hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "N’attendez PAS d’alertes MCG avant la fin de la période de 2 heures après le démarrage. Vous ne recevrez PAS de mesures glycémiques du capteur ni d’alertes glycémiques du capteur avant la fin de la période de 2 heures après le démarrage. Pendant cette période, vous pourriez passer à côté d’une hypoglycémie (glycémie basse) ou d’une hyperglycémie (glycémie élevée) sévère."
+    "target": "Verwacht GEEN CGM-waarschuwingen binnen de 2 uur na het opstarten. U krijgt GEEN bloedglucosemetingen of waarschuwingen van de sensor tot na de 2 uur durende opstartperiode. Tijdens deze periode kan het gebeuren dat u ernstige hypoglykemie (lage BG) of hyperglykemie (hoge BG) niet opmerkt."
   },
   {
     "source": "DO NOT use your transmitter if it is damaged/cracked. This could create an electrical safety hazard or malfunction, which might cause electrical shocks.",
-    "target": "N’utilisez PAS votre transmetteur s’il est endommagé ou fissuré. Cela pourrait présenter un risque électrique pour la sécurité ou provoquer une défaillance susceptibles d’entraîner une électrocution."
+    "target": "Gebruik uw zender NIET als deze is beschadigd/gebarsten. Dit kan een gevaarlijke elektrische toestand of storing veroorzaken, die kan leiden tot elektrische schokken."
   },
   {
     "source": "STORE the Dexcom G6 CGM sensor at temperatures between 2.2°C (36°F) to 30°C (86°F) for the length of the sensor’s shelf life. You may store the sensor in the refrigerator if it is within this temperature range. The sensor should not be stored in a freezer. Storing the sensor improperly might cause the sensor glucose readings to be inaccurate, and you might miss severe hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "RANGEZ le capteur du MCG Dexcom G6 à des températures comprises entre 2,2 °C (36 °F) et 30 °C (86 °F) pendant toute la durée de vie utile du capteur. Vous pouvez conserver le capteur au réfrigérateur s’il se trouve dans cette plage de température. Le capteur ne doit pas être conservé au congélateur. Le stockage incorrect du capteur pourrait donner des mesures glycémiques du capteur imprécises ; à cause de cela, vous pourriez passer à côté d’une hypoglycémie (glycémie basse) ou d’une hyperglycémie (glycémie élevée) sévère."
+    "target": "BEWAAR de Dexcom G6 CGM-sensor op een temperatuur tussen 2.2 °C (36 °F) tot 30 °C (86 °F) tijdens de houdbaarheidsperiode van de sensor. U kunt de sensor in de koelkast bewaren, mits de koelkasttemperatuur binnen dit bereik valt. De sensor mag niet in een vriezer worden bewaard. Het niet naar behoren opslaan van de sensor kan leiden tot onnauwkeurige bloedglucosemetingen, waardoor u ernstige hypoglykemie (lage BG) of hyperglykemie (hoge BG) mogelijk niet opmerkt."
   },
   {
     "source": "DO NOT allow young children to hold the sensor, transmitter or transmitter kit box without adult supervision. The sensor and transmitter include small parts that may pose a choking hazard.",
-    "target": "Ne laissez PAS les jeunes enfants manipuler le capteur, le transmetteur ou le boîtier du kit du transmetteur s’ils ne sont pas sous la surveillance d’un adulte. Le capteur et le transmetteur comportent de petites pièces pouvant présenter un risque d’étouffement."
+    "target": "Sta NIET toe dat jonge kinderen de sensor, zender of zenderdoos vasthouden zonder toezicht van een volwassene. De sensor en zender bevatten kleine onderdelen die verstikkingsgevaar kunnen opleveren."
   },
   {
     "source": "",
@@ -322,115 +322,115 @@ var linguJSON = {
   },
   {
     "source": "t:slim X2 Insulin Pump Precautions",
-    "target": "Précautions relatives à la pompe à insuline t:slim X2"
+    "target": "Voorzorgsmaatregelen t:slim X2-insulinepomp"
   },
   {
     "source": "DO NOT open or attempt to repair your insulin pump. The pump is a sealed device that should be opened and repaired only by Tandem Diabetes Care. Modification could result in a safety hazard. If your pump seal is broken, the pump is no longer watertight and the warranty is voided.",
-    "target": "N’ouvrez PAS votre pompe à insuline et n’essayez PAS de la réparer. La pompe est un dispositif scellé qui ne doit être ouvert et réparé que par Tandem Diabetes Care. Les modifications pourraient entraîner un danger pour la sécurité. Si le joint de votre pompe est cassé, cette dernière ne sera plus étanche et la garantie sera annulée."
+    "target": "Probeer NIET om uw insulinepomp te openen of deze te repareren. De pomp is een afgedicht apparaat dat alleen mag worden geopend en gerepareerd door Tandem Diabetes Care. Wijzigingen aan het apparaat kunnen leiden tot een veiligheidsrisico. Als de afdichting van uw pomp is verbroken, is de pomp niet meer waterdicht en is de garantie niet meer geldig."
   },
   {
     "source": "CHANGE your infusion set every 48 to 72 hours as recommended by your healthcare provider. Wash your hands with anti-bacterial soap before handling the infusion set and thoroughly clean the insertion site on your body to avoid infection. Contact your healthcare provider if you have symptoms of infection at your insulin infusion site.",
-    "target": "CHANGEZ votre kit de perfusion toutes les 48 à 72 heures selon les recommandations de votre professionnel de santé. Lavez-vous les mains avec du savon antibactérien avant de manipuler le kit de perfusion, et nettoyez soigneusement le site d’insertion sur votre corps afin d’éviter toute infection. Contactez votre professionnel de santé si vous présentez des symptômes d’infection au niveau de votre site de perfusion d’insuline."
+    "target": "VERVANG uw infusieset iedere 48 tot 72 uur, zoals aanbevolen door uw zorgverlener. Was uw handen met antibacteriële zeep voordat u de infusieset hanteert en maak de inbrenglocatie op uw lichaam goed schoon om infectie te voorkomen. Neem contact op met uw zorgverlener indien u symptomen van infectie waarneemt op uw infusieplaats voor insuline."
   },
   {
     "source": "ALWAYS remove all air bubbles from the pump before beginning insulin delivery. Ensure there are no air bubbles when drawing insulin into the filling syringe, hold the pump with the white fill port pointed up when filling the tubing, and ensure that there are no air bubbles in the tubing when filling. Air in the system takes space where insulin should be and can affect insulin delivery.",
-    "target": "Éliminez TOUJOURS toutes les bulles d’air de la pompe avant de commencer l’administration d’insuline. Vérifiez qu’il n’y a pas de bulles d’air lorsque vous aspirez l’insuline dans la seringue de remplissage, tenez la pompe avec le port de remplissage blanc orienté vers le haut pendant le remplissage de la tubulure et vérifiez l’absence de bulles d’air dans la tubulure pendant le remplissage. Si de l’air est présent dans le système, il prend la place de l’insuline, ce qui peut affecter l’administration d’insuline."
+    "target": "Verwijder ALTIJD alle luchtbellen uit de pomp voordat u begint met de insulinetoediening. Controleer of er geen luchtbellen aanwezig zijn wanneer u insuline in de spuit zuigt, laat de witte vulpoort op de pomp omhoog wijzen wanneer u de slang vult en zorg ervoor dat de slang tijdens het vullen geen luchtbellen bevat. Lucht in het systeem neemt ruimte in beslag die is bestemd voor insuline en kan de toediening van insuline verstoren."
   },
   {
     "source": "CHECK your infusion site daily for proper placement and leaks. REPLACE your infusion set if you notice leaks around the site. Improperly placed sites or leaks around the infusion site can result in under delivery of insulin.",
-    "target": "VÉRIFIEZ quotidiennement que votre site de perfusion est bien placé et ne présente pas de fuite. REMPLACEZ votre kit de perfusion si vous observez des fuites autour du site. Les sites mal placés ou les fuites autour du site de perfusion peuvent entraîner une administration insuffisante d’insuline."
+    "target": "CONTROLEER uw infusieplaats dagelijks op goede plaatsing en lekkage. VERVANG uw infusieset als u lekken opmerkt rond de infusieplaats. Een slechte plaatsing of lekkage rond de infusieplaats kan leiden tot een te lage toediening van insuline."
   },
   {
     "source": "CHECK your infusion set tubing daily for any leaks, air bubbles, or kinks. Air in the tubing, leaks in the tubing, or kinked tubing may restrict or stop insulin delivery and result in under delivery of insulin.",
-    "target": "VÉRIFIEZ quotidiennement l’absence de fuites, de bulles d’air ou de déformations au niveau de la tubulure du kit de perfusion. La présence d’air, de fuites ou de déformations dans la tubulure peut limiter ou arrêter l’administration d’insuline et résulter en une administration insuffisante d’insuline."
+    "target": "CONTROLEER de slang van uw infusieset dagelijks op lekkage, luchtbellen en knikken. Lucht in de slang, lekken in de slang of een geknikte slang kan de toediening van insuline belemmeren of geheel stoppen en tot een te lage toediening van insuline leiden."
   },
   {
     "source": "CHECK the tubing connection between your cartridge tubing and infusion set tubing daily to ensure it is tight and secure. Leaks around the tubing connection can result in under delivery of insulin.",
-    "target": "VÉRIFIEZ quotidiennement la connexion de la tubulure entre la tubulure de votre réservoir et la tubulure du kit de perfusion pour vous assurer qu’elle est solide et sécurisée. Les fuites autour de la connexion de la tubulure peuvent entraîner une administration insuffisante d’insuline."
+    "target": "CONTROLEER de slangaansluiting tussen uw reservoirslang en infusiesetslang om er zeker van te zijn dat deze goed is gemaakt en stevig vastzit. Lekkage rond de slangaansluiting kan leiden tot een te lage toediening van insuline."
   },
   {
     "source": "DO NOT change your infusion set before bedtime or if you will not be able to test your BG 1–2 hours after the new infusion set is placed. It is important to confirm that the infusion set is inserted correctly and delivering insulin. It is also important to respond quickly to any problems with the insertion to ensure continued insulin delivery.",
-    "target": "Ne changez PAS votre kit de perfusion avant de vous coucher ou si vous ne pouvez pas tester votre glycémie 1 à 2 heures après avoir placé le nouveau kit de perfusion. Il est important de vérifier que le kit de perfusion est inséré correctement et qu’il administre l’insuline. Il est également important de réagir rapidement à tout problème d’insertion afin de garantir l’administration d’insuline en continu."
+    "target": "Vervang uw infusieset NIET voordat u naar bed gaat, want u kunt uw BG dan pas weer 1 tot 2 uur nadat de infusieset is geplaatst testen. Het is belangrijk dat wordt gecontroleerd of de infusieset correct is ingebracht en insuline toedient. Het is ook belangrijk dat snel wordt gereageerd op eventuele problemen met het inbrengen, om ervoor te zorgen dat de toediening van insuline doorgaat."
   },
   {
     "source": "ALWAYS check that your cartridge has enough insulin to last through the night before going to bed. If you are sleeping, you could fail to hear the Empty Cartridge Alarm and miss part of your basal insulin delivery.",
-    "target": "Vérifiez TOUJOURS que votre réservoir dispose d’assez d’insuline pour la nuit avant de vous coucher. Si vous dormez, vous pourriez ne pas entendre l’alarme Réservoir vide et manquer une partie de votre administration d’insuline basale."
+    "target": "Controleer voordat u naar bed gaat ALTIJD of er voldoende insuline in uw reservoir zit voor de hele nacht. Wanneer u slaapt, is het mogelijk dat u het alarm bij een leeg reservoir niet hoort en u een toediening van basale insuline mist."
   },
   {
     "source": "CHECK your pump’s personal settings regularly to ensure they are correct. Incorrect settings can result in over delivery or under delivery of insulin. Consult with your healthcare provider as needed.",
-    "target": "VÉRIFIEZ régulièrement les réglages personnels de votre pompe pour vous assurer qu’ils sont corrects. Des réglages incorrects peuvent entraîner une administration excessive ou insuffisante d’insuline. Consultez votre professionnel de santé si nécessaire."
+    "target": "CONTROLEER de persoonlijke instellingen van uw pomp regelmatig om er zeker van te zijn dat ze juist zijn. Onjuiste instellingen kunnen leiden tot een te hoge of te lage toediening van insuline. Raadpleeg indien nodig uw zorgverlener."
   },
   {
     "source": "ALWAYS make sure that the correct time and date are set on your insulin pump. Not having the correct time and date setting may affect safe insulin delivery. When editing time, always check that the AM/PM setting is accurate, if using the 12 hour clock. AM is to be used from midnight until 11:59 AM. PM is to be used from noon until 11:59 PM.",
-    "target": "Vérifiez TOUJOURS que l’heure et la date réglées sur votre pompe à insuline sont correctes. L’administration sûre de l’insuline peut être affectée par un mauvais réglage de l’heure et de la date. Lorsque vous modifiez l’heure, vérifiez toujours que le réglage AM/PM est correct, si vous utilisez le format d’horloge de 12 heures. AM doit être utilisé de minuit à 11h59. PM doit être utilisé de midi à 23h59."
+    "target": "Zorg ALTIJD dat de juiste tijd en datum zijn ingesteld op uw insulinepomp. Als de tijd en datum niet goed zijn ingesteld, kan dat een veilige toediening van insuline verhinderen. Controleer bij het bewerken van de tijd altijd of de AM/PM-instelling juist is, als u de 12-uursklok gebruikt. AM is voor het gebruik van middernacht tot 11:59 uur. PM is voor het gebruik van 12 uur 's middags tot 23:59 uur."
   },
   {
     "source": "CONFIRM that the screen display turns on, you can hear audible beeps, feel the pump vibrate, and see the green LED light blinking around the edge of the Screen On/Quick Bolus button when you connect a power source to the USB port. These features are used to notify you about alerts, alarms, and other conditions that require your attention. If these features are not working, discontinue use of the pump and contact your local customer support.",
-    "target": "VÉRIFIEZ que l’écran s’allume, que vous pouvez entendre les signaux sonores, que vous sentez les vibrations de la pompe et que vous voyez la DEL verte clignoter sur le contour du bouton Écran allumé/Bolus rapide lorsque vous branchez une source d’alimentation au port USB. Ces fonctions servent à vous informer sur les alertes, les alarmes et d’autres anomalies nécessitant votre attention. Si ces fonctions ne sont pas actives, cessez d’utiliser la pompe et contactez votre service d’assistance à la clientèle local."
+    "target": "CONTROLEER of het scherm inschakelt, u pieptonen hoort, de pomp voelt trillen en de groene led ziet knipperen rond de rand van de knop Scherm aan/Snelle bolus wanneer u een energiebron aansluit op de USB-poort. Deze functies worden gebruikt om u op de hoogte te stellen van waarschuwingen, alarmen en andere situaties die uw aandacht vereisen. Staak het gebruik van de pomp en neem contact op met de klantenservice in uw regio als deze functies niet werken."
   },
   {
     "source": "CHECK your pump regularly for potential alarm conditions that may display. It is important to be aware of conditions that may affect insulin delivery and require your attention so you can respond as soon as possible.",
-    "target": "VÉRIFIEZ régulièrement si votre pompe affiche une condition d’alarme. Il est important de connaître les conditions qui peuvent affecter l’administration d’insuline et nécessiter votre attention afin que vous puissiez réagir le plus rapidement possible."
+    "target": "CONTROLEER uw pomp regelmatig op alarmsituaties die kunnen worden weergegeven. Het is belangrijk dat u op de hoogte bent van de omstandigheden die van invloed kunnen zijn op de toediening van insuline en uw aandacht vereisen, zodat u zo snel mogelijk kunt reageren."
   },
   {
     "source": "DO NOT use the vibrate feature for alerts and alarms during sleep unless otherwise directed by your healthcare provider. Having the volume for alerts and alarms set to high will help ensure that you don’t miss an alert or alarm.",
-    "target": "N’utilisez PAS le réglage Vibrer pour les alertes et les alarmes pendant votre sommeil, à moins que votre professionnel de santé vous l’indique. Le réglage d’un volume d’alertes et d’alarme élevé vous aidera à ne manquer aucune alerte ou alarme."
+    "target": "Gebruik de trilfunctie voor waarschuwingen en alarmen NIET terwijl u slaapt, tenzij uw zorgverlener hiervoor toestemming geeft. Door het volume voor waarschuwingen en alarmen op hoog in te stellen, voorkomt u dat u een waarschuwing of alarm niet opmerkt."
   },
   {
     "source": "ALWAYS look at the screen to confirm correct programming of the bolus amount when you first use the Quick Bolus feature. Looking at the screen will ensure that you are correctly using the beep/vibration commands to program the intended bolus amount.",
-    "target": "Consultez TOUJOURS l’écran afin de confirmer la bonne programmation de la quantité de bolus lors de la première utilisation de la fonction Bolus rapide. Le fait de consulter votre écran aide à vous assurer que vous utilisez correctement les commandes de signaux sonores / vibrations pour programmer la quantité de bolus prévue."
+    "target": "Wanneer u de functie Snelle bolus nog maar net gebruikt, kijkt u ALTIJD op het scherm om de juiste programmering van de bolushoeveelheid te bevestigen. Door op het scherm te kijken, bent u er zeker van dat u de opdrachten in de vorm van pieptonen/trillingen correct gebruikt voor het programmeren van de beoogde bolushoeveelheid."
   },
   {
     "source": "DO NOT use your pump if you think it might be damaged due to dropping it or hitting it against a hard surface. Check that the pump is working properly by plugging a power source into the USB port and confirming that the display turns on, you hear audible beeps, feel the pump vibrate, and see the green LED light blinking around the edge of the Screen On/Quick Bolus button. If you are unsure about potential damage, discontinue use of the pump and contact your local customer support.",
-    "target": "N’utilisez PAS votre pompe si vous pensez qu’elle peut être endommagée si elle est tombée ou a heurté une surface dure. Vérifiez que la pompe fonctionne correctement en branchant une source d’alimentation au port USB et en vérifiant que l’écran s’allume, que vous pouvez entendre les signaux sonores, que vous sentez les vibrations de la pompe et que vous voyez la DEL verte clignoter autour du bouton Écran allumé/Bolus rapide. Si vous avez un doute sur la possibilité que la pompe soit endommagée, cessez de l’utiliser et contactez le service d’assistance à la clientèle local."
+    "target": "Gebruik uw pomp NIET als u vermoedt dat deze is beschadigd door een val op of stoten tegen een hard oppervlak. Controleer of de pomp goed werkt door een energiebron in de USB-poort te steken en te controleren of het scherm inschakelt, u pieptonen hoort, de pomp voelt trillen en een groene led ziet die knippert rond de rand van de knop Scherm aan/Snelle bolus. Staak het gebruik van de pomp en neem contact op met de klantenservice in uw regio als u vermoedt dat de pomp beschadigd zou kunnen zijn."
   },
   {
     "source": "AVOID exposure of your pump to temperatures below 5°C (40°F) or above 37°C (99°F). Insulin can freeze at low temperatures or degrade at high temperatures. Insulin that has been exposed to conditions outside of the manufacturer’s recommended ranges can affect the safety and performance of the pump.",
-    "target": "ÉVITEZ d’exposer votre pompe à des températures inférieures à 5 °C (40 °F) ou supérieures à 37 °C (99 °F). L’insuline peut geler à des températures basses ou se dégrader à des températures élevées. L’insuline exposée à des conditions hors des plages recommandées par le fabricant peut nuire à la sécurité et à la performance de la pompe."
+    "target": "VERMIJD blootstelling van uw pomp aan temperaturen onder 5 °C (40 °F) of boven 37 °C (99 °F). Insuline kan bij lage temperaturen bevriezen en bij hoge temperaturen degraderen. Insuline die blootgesteld is geweest aan omstandigheden buiten de door de fabrikant aanbevolen waarden, kan de veiligheid en prestaties van de pomp aantasten."
   },
   {
     "source": "AVOID submerging your pump in fluid beyond a depth of 0.91 m (3 feet) or for more than 30 minutes (IPX7 rating). If your pump has been exposed to fluid beyond these limits, check for any signs of fluid entry. If there are signs of fluid entry, discontinue use of the pump and contact your local customer support.",
-    "target": "ÉVITEZ d’immerger votre pompe dans un liquide à plus de 0,91 mètre (3 pieds) ou pendant plus de 30 minutes (classe de protection IPX7). Si votre pompe a été exposée à un liquide au-delà de ces limites, vérifiez si elle présente des signes d’infiltration de liquide. Si vous observez des traces d’infiltration de liquide, cessez d’utiliser la pompe et contactez le service d’assistance à la clientèle local."
+    "target": "VERMIJD onderdompeling van uw pomp in een vloeistof met een diepte van meer dan 0.91 meter (3 voet) of gedurende meer dan 30 minuten (IPX7-classificatie). Als uw pomp is blootgesteld aan vloeistof voorbij deze limieten, controleer dan op tekenen van het binnendringen van vloeistof. Staak het gebruik van de pomp en neem contact op met de klantenservice in uw regio als u tekenen van het binnendringen van vloeistof ziet."
   },
   {
     "source": "AVOID areas where there may be flammable anesthetics or explosive gases. The pump is not suitable for use in these areas and there is a risk of explosion. Remove your pump if you need to enter these areas.",
-    "target": "ÉVITEZ les zones dans lesquelles peuvent se trouver des anesthésiants inflammables ou des gaz explosifs. La pompe n’est pas adaptée à une utilisation dans ces zones et il existe un risque d’explosion. Retirez votre pompe si vous devez entrer dans ces zones."
+    "target": "VERMIJD plaatsen waar ontvlambare anesthetica of explosieve gassen aanwezig kunnen zijn. De pomp is niet geschikt voor gebruik op deze plaatsen en er bestaat een explosiegevaar. Verwijder uw pomp voordat u een van deze plaatsen binnengaat."
   },
   {
     "source": "MAKE SURE to not move further than the length of the USB cable when you are connected to the pump and to a charging source. Moving further than the length of the USB cable may cause the cannula to be pulled out of the infusion site. For this reason it is recommended not to charge the pump while sleeping.",
-    "target": "VEILLEZ à ne pas vous éloigner de plus de la longueur du câble USB lorsque vous êtes branché à la pompe et à une source de recharge. Si vous vous éloignez de plus de la longueur du câble USB, la canule pourrait sortir du site de perfusion. Pour cette raison, il est conseillé de ne pas recharger la pompe pendant que vous dormez."
+    "target": "ZORG ERVOOR dat u binnen de lengte van de USB-kabel blijft wanneer u op de pomp en op een oplaadbron bent aangesloten. Als u verder gaat dan de lengte van de USB-kabel, kan de canule uit de infusieplaats worden getrokken. Om deze reden wordt aanbevolen om de pomp niet op te laden terwijl u slaapt."
   },
   {
     "source": "DISCONNECT your infusion set from your body while on high-speed/high gravity amusement park thrill rides. Rapid changes in altitude or gravity can affect insulin delivery and cause injury.",
-    "target": "DÉBRANCHEZ le kit de perfusion de votre corps lorsque vous montez dans des manèges à sensation à haute vitesse / forte gravité. Les changements rapides d’altitude ou de gravité peuvent affecter l’administration d’insuline et provoquer des blessures."
+    "target": "ONTKOPPEL de infusieset van uw lichaam tijdens ritten op hoge snelheid of met hoge krachten in een attractiepark of kermis. Snelle veranderingen in hoogte of zwaartekracht kunnen van invloed zijn op de toediening van insuline en letsel veroorzaken."
   },
   {
     "source": "DISCONNECT your infusion set from your body before flying in an aircraft without cabin pressurization or in planes used for aerobatics or combat simulation (pressurized or not). Rapid changes in altitude or gravity can affect insulin delivery and cause injury.",
-    "target": "DÉBRANCHEZ le kit de perfusion de votre corps avant d’effectuer un vol en avion sans pressurisation de la cabine ou dans les avions utilisés pour les acrobaties ou les simulations de combat (avec ou sans pressurisation). Les changements rapides d’altitude ou de gravité peuvent affecter l’administration d’insuline et provoquer des blessures."
+    "target": "ONTKOPPEL de infusieset van uw lichaam voordat u vliegt in een vliegtuig zonder gereguleerde cabinedruk of in een vliegtuig dat wordt gebruikt voor kunstvliegen of gevechtssimulaties (met of zonder gereguleerde cabinedruk). Snelle veranderingen in hoogte of zwaartekracht kunnen van invloed zijn op de toediening van insuline en letsel veroorzaken."
   },
   {
     "source": "CONSULT your healthcare provider about lifestyle changes such as weight gain or loss, and starting or stopping exercise. Your insulin needs may change in response to lifestyle changes. Your basal rate(s) and other settings may need adjustment.",
-    "target": "CONSULTEZ votre professionnel de santé au sujet des changements de votre mode de vie, comme la perte ou la prise de poids, ou le fait de commencer / arrêter un sport. Il se peut que vos besoins en insuline évoluent en raison des changements de votre mode de vie. Il est possible que votre (vos) débit(s) basal (basaux) et d’autres paramètres nécessitent un ajustement."
+    "target": "RAADPLEEG uw zorgverlener over veranderingen van levensstijl zoals gewichtstoename of -verlies en het beginnen of stoppen van lichaamsbeweging. Uw insulinebehoefte kan veranderen door wijzigingen in uw levensstijl. Uw basaalsnelheid/-snelheden en andere instellingen moeten mogelijk worden aangepast."
   },
   {
     "source": "CHECK your BG using a BG meter following a gradual elevation change of up to each 305 meters (1,000 feet), such as when snow skiing or driving on a mountain road. Delivery accuracy can vary up to 15% until 3 units of total insulin have been delivered or elevation has changed by more than 305 meters (1,000 feet). Changes in delivery accuracy can affect insulin delivery and cause injury.",
-    "target": "VÉRIFIEZ votre glycémie à l’aide d’un lecteur de glycémie après un changement d’altitude progressif jusqu’à 305 mètres (1 000 pieds), par exemple lorsque vous skiez ou circulez sur une route de montagne. La précision de l’administration peut varier jusqu’à 15 % jusqu’à ce que 3 unités d’insuline au total aient été administrées ou jusqu’à ce que l’altitude ait changé de plus de 305 mètres (1 000 pieds). Toute modification de la précision de l’administration peut perturber l’administration d’insuline et provoquer des blessures."
+    "target": "CONTROLEER uw BG met een BG-meter na een geleidelijk hoogteverschil van maximaal elke 305 meter (1000 voet), zoals bij skiën of wanneer u door de bergen rijdt. De nauwkeurigheid van de toediening kan variëren tot 15% totdat er 3 eenheden insuline zijn toegediend of totdat de hoogte met meer dan 305 meter (1000 voet) is veranderd. Veranderingen in de nauwkeurigheid van de toediening kunnen de toediening van insuline beïnvloeden en letsel veroorzaken."
   },
   {
     "source": "ALWAYS check with your healthcare provider for specific guidelines if you want or need to disconnect from the pump for any reason. Depending on the length of time and reason you are disconnecting, you may need to replace missed basal and/or bolus insulin. Check your BG before disconnecting from the pump and again when you reconnect, and treat high BG levels as recommended by your healthcare provider.",
-    "target": "Consultez TOUJOURS votre professionnel de santé pour connaître les consignes spécifiques qui s’appliquent si vous souhaitez ou devez vous débrancher de la pompe pour quelque raison que ce soit. En fonction de la durée de la période pendant laquelle vous êtes débranché, il se peut que vous deviez remplacer l’insuline basale et/ou en bolus que vous manquez. Vérifiez votre glycémie avant de vous débrancher de la pompe et à nouveau lorsque vous vous rebranchez, et traitez les hyperglycémies selon les recommandations de votre professionnel de santé."
+    "target": "Vraag uw zorgverlener ALTIJD of er specifieke richtlijnen zijn wanneer u de pomp om welke reden dan ook moet of wilt losmaken. Afhankelijk van de duur en de reden waarom u ontkoppelt, kan het nodig zijn dat u de gemiste basaalinsuline en/of bolusinsuline inhaalt. Controleer uw BG voordat u de pomp ontkoppelt en opnieuw wanneer u die aansluit, en behandel hoge BG zoals aanbevolen door uw zorgverlener."
   },
   {
     "source": "ENSURE that your personal insulin delivery settings are programmed into the pump before use if you receive a warranty replacement. Failure to enter your insulin delivery settings could result in over delivery or under delivery of insulin. This can cause hypoglycemia (low BG) or hyperglycemia (high BG) events. Consult your healthcare provider as needed.",
-    "target": "VÉRIFIEZ que vos réglages personnels d’administration d’insuline sont programmés dans la pompe avant d’utiliser celle-ci si vous recevez un dispositif de remplacement dans le cadre de la garantie. La non-saisie de vos réglages d’administration d’insuline pourrait entraîner une administration d’insuline excessive ou insuffisante. Cela pourrait provoquer une hypoglycémie (glycémie basse) ou une hyperglycémie (glycémie élevée). Consultez votre professionnel de santé si nécessaire."
+    "target": "ZORG ERVOOR dat uw persoonlijke instellingen voor de insulinetoediening in de pomp zijn geprogrammeerd voordat u de pomp gaat gebruiken als u onder garantie een vervanging hebt ontvangen. Als u uw instellingen voor de toediening van insuline niet invoert, kan dat leiden tot te veel of te weinig toegediende insuline. Dat kan resulteren in voorvallen van hypoglykemie (lage BG) of hyperglykemie (hoge BG). Raadpleeg indien nodig uw zorgverlener."
   },
   {
     "source": "Interference with your pump’s electronics by cell phones can occur if worn in close proximity. It is recommended that your pump and cell phone be worn at least 16.3 cm (6.4 inches) apart.",
-    "target": "Les téléphones portables pourraient provoquer des interférences avec les composants électroniques de la pompe si vous les portez à proximité. Il est recommandé de porter votre pompe et votre téléphone portable à une distance d’au moins 16,3 cm (6,4 po)."
+    "target": "In de nabijheid van mobiele telefoons kan interferentie met de elektronica van uw pomp optreden. Het wordt aangeraden bij het dragen van uw pomp en mobiele telefoon een tussenafstand van minimaal 16.3 cm (6.4 inch) aan te houden."
   },
   {
     "source": "ALWAYS dispose of used components such as cartridges, syringes, needles, infusion sets, and CGM sensors following the instructions from your healthcare provider. Wash your hands thoroughly after handling used components.",
-    "target": "Jetez TOUJOURS les composants usagés tels que les réservoirs, les seringues, les aiguilles, les sets de perfusion et les capteurs MCG conformément aux instructions de votre professionnel de santé. Lavez-vous soigneusement les mains après avoir manipulé les composants usagés."
+    "target": "Gooi gebruikte onderdelen zoals reservoirs, spuiten, naalden, infusiesets en CGM-sensoren ALTIJD weg volgens de aanwijzingen van uw zorgverlener. Was uw handen grondig na het hanteren van gebruikte onderdelen."
   },
   {
     "source": "",
@@ -438,75 +438,75 @@ var linguJSON = {
   },
   {
     "source": "Using Dexcom G6 CGM with Your t:slim X2 Insulin Pump",
-    "target": "Utilisation du MCG Dexcom G6 avec votre pompe à insuline t:slim X2"
+    "target": "Gebruik van de Dexcom G6 CGM met uw t:slim X2-insulinepomp"
   },
   {
     "source": "DO NOT open the sensor package until you have washed your hands with soap and water, and let them dry. You may contaminate the insertion site and suffer an infection if you have dirty hands while inserting the sensor.",
-    "target": "N’ouvrez PAS le paquet du capteur avant de vous être lavé les mains avec du savon et de l’eau et de les avoir laissé sécher. Vous pourriez contaminer le site d’insertion et souffrir d’une infection si vous avez les mains sales lors de l’insertion du capteur."
+    "target": "Open de sensorverpakking NIET voordat u uw handen met water en zeep hebt gewassen en hebt laten drogen. Als u de sensor met vuile handen inbrengt, kunt u de inbrenglocatie verontreinigen en een infectie oplopen."
   },
   {
     "source": "DO NOT insert the sensor until you have cleaned the skin with a topical antimicrobial solution, such as isopropyl alcohol, and allowed the skin to dry. Inserting into unclean skin might lead to infection. Do not insert the sensor until the cleaned area is dry so the sensor adhesive will stick better.",
-    "target": "N’insérez PAS le capteur avant d’avoir nettoyé la peau avec une solution antimicrobienne topique, par exemple de l’alcool isopropylique, et d’avoir laissé la peau sécher. L’insertion dans une peau non propre peut entraîner une infection. N’insérez pas le capteur avant que la zone nettoyée soit sèche, afin que l’adhésif du capteur colle mieux."
+    "target": "Breng de sensor NIET in voordat u de huid hebt schoongemaakt met een antimicrobiële oplossing voor lokaal gebruik (bijvoorbeeld isopropanol) en de huid hebt laten drogen. Het inbrengen van de sensor in nietschoongemaakte huid kan leiden tot infectie. Breng de sensor pas in als het schoongemaakte gebied droog is, zodat de plakker beter blijft kleven."
   },
   {
     "source": "AVOID using the same spot repeatedly for sensor insertion. Rotate your sensor placement sites, and do not use the same site for two sensor sessions in a row. Using the same site might cause scarring or skin irritation.",
-    "target": "ÉVITEZ d’utiliser le même endroit pour l’insertion du capteur de manière répétée. Effectuez une rotation entre les sites de placement du capteur, et n’utilisez pas le même site pour deux sessions de capteur d’affilée. L’utilisation du même site peut provoquer l’apparition de cicatrices ou l’irritation de la peau."
+    "target": "VERMIJD herhaald gebruik van dezelfde plaats voor het inbrengen van de sensor. Wissel de sensorinbrengplaats af en gebruik niet dezelfde plaats voor twee achtereenvolgende sensorsessies. Het gebruik van dezelfde plaats kan littekens of huidirritatie veroorzaken."
   },
   {
     "source": "AVOID inserting the sensor in areas that are likely to be bumped, pushed or compressed, or areas of skin with scarring, tattoos, or irritation as these are not ideal sites to measure glucose. Insertion in those areas might affect accuracy and could result in you missing severe hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "ÉVITEZ d’insérer le capteur dans des régions susceptibles de subir des chocs, des pressions ou des compressions ou sur des zones de la peau présentant des cicatrices, des tatouages ou des irritations, car ce ne sont pas des sites optimaux pour mesurer la glycémie. L’insertion dans ces zones pourrait nuire à la précision ; à cause de cela, vous pourriez passer à côté d’une hypoglycémie (glycémie basse) ou d’une hyperglycémie (glycémie élevée) sévère."
+    "target": "VERMIJD het inbrengen van de sensor op plaatsen die gestoten, geduwd of samengedrukt kunnen worden of op plekken met littekens, tatoeages of irritatie, omdat dit geen goede plaatsen voor het meten van bloedglucose zijn. Inbrengen op deze locaties kan de nauwkeurigheid beïnvloeden, waardoor u ernstige voorvallen van hypoglykemie (lage BG) of hyperglykemie (hoge BG) mogelijk niet opmerkt."
   },
   {
     "source": "AVOID injecting insulin or placing an infusion set within 7.6 cm (3 inches) of the sensor. The insulin might affect sensor accuracy and could result in you missing severe hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "ÉVITEZ d’injecter l’insuline ou de placer un kit de perfusion dans un rayon de 7,6 cm (3 po) autour du capteur. L’insuline pourrait affecter la précision du capteur ; à cause de cela, vous pourriez passer à côté d’une hypoglycémie (glycémie basse) ou d’une hyperglycémie (glycémie élevée) sévère."
+    "target": "VERMIJD het injecteren van insuline of het plaatsen van een insulinepomp binnen 7.6 cm (3 inch) van de sensor. De insuline kan de nauwkeurigheid van de sensor beïnvloeden, waardoor u ernstige voorvallen van hypoglykemie (lage BG) of hyperglykemie (hoge BG) mogelijk niet opmerkt."
   },
   {
     "source": "DO NOT use the sensor if its sterile package has been damaged or opened. Using an unsterile sensor might cause infection.",
-    "target": "N’utilisez PAS le capteur si son emballage stérile est endommagé ou a été ouvert. L’utilisation d’un capteur non stérile peut provoquer une infection."
+    "target": "Gebruik de sensor NIET als de steriele verpakking is beschadigd of geopend. Gebruik van een niet-steriele sensor kan infectie tot gevolg hebben."
   },
   {
     "source": "PAY ATTENTION to the trend information on your CGM Home screen, as well as your symptoms, before using CGM values to calculate and deliver a correction bolus. Individual CGM values may not be as accurate as BG meter values.",
-    "target": "FAITES ATTENTION aux informations de tendance affichées sur l’écran Accueil de votre MCG, ainsi qu’à vos symptômes, avant d’utiliser les valeurs du MCG pour calculer et administrer un bolus de correction. Il est possible que des valeurs individuelles du MCG ne soient pas aussi précises que les valeurs du lecteur de glycémie."
+    "target": "LET OP de trendinformatie op uw CGM-startscherm en uw symptomen voordat u CGM-waarden gebruikt om een correctiebolus te berekenen en toe te dienen. Individuele CGM-waarden zijn mogelijk niet zo nauwkeurig als BG-meterwaarden."
   },
   {
     "source": "To calibrate the Dexcom G6 CGM, ALWAYS enter the exact BG value that your BG meter displays within 5 minutes of a carefully performed BG measurement. Do not enter sensor glucose readings for calibration. Entering incorrect BG values, BG values obtained more than 5 minutes before entry, or sensor glucose readings might affect sensor accuracy and could result in you missing severe hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "Pour calibrer le MCG Dexcom G6, saisissez TOUJOURS la valeur glycémique exacte affichée par votre lecteur de glycémie dans les 5 minutes suivant une mesure de la glycémie effectuée soigneusement. Ne saisissez pas les mesures glycémiques du capteur pour la calibration. La saisie de valeurs glycémiques incorrectes, obtenues plus de 5 minutes avant la saisie ou des mesures glycémiques du capteur pourrait affecter la précision de ce dernier, et vous pourriez passer à côté d’une hypoglycémie (glycémie basse) ou d’une hyperglycémie (glycémie élevée) sévère."
+    "target": "Om de Dexcom G6 CGM te kalibreren, moet u de door uw BG-meter aangegeven BG-waarde ALTIJD binnen 5 minuten na een zorgvuldig verrichte BG-meting invoeren. Voer geen glucosewaarden van de sensor in voor kalibratie. Als u onjuiste BG-waarden invoert, BG-waarden invoert die meer dan 5 minuten voor het invoeren zijn verkregen, of glucosemetingen van de sensor invoert, kan dit de prestaties van de sensor beïnvloeden en kan dit leiden tot het niet opmerken van voorvallen van ernstige hypoglykemie (lage BG) of hyperglykemie (hoge BG)."
   },
   {
     "source": "DO NOT calibrate if your BG is changing at a significant rate, typically more than 0.1 mmol/L per minute. Do not calibrate when your receiver screen is showing the rising or falling single arrow or double arrow, which indicates that your BG is rapidly rising or falling. Calibrating during significant rise or fall of BG may affect sensor accuracy and could result in you missing severe hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "Ne calibrez PAS le système si votre glycémie change rapidement, généralement plus de 2 mg/dL par minute. Ne calibrez pas le système lorsque l’écran de votre récepteur affiche une flèche simple ou double vers le haut ou vers le bas, qui indique que votre glycémie augmente ou diminue rapidement. La calibration pendant une augmentation ou une diminution importante de la glycémie peut affecter la précision du capteur et vous pourriez passer à côté d’une hypoglycémie (glycémie basse) ou d’une hyperglycémie (glycémie élevée) sévère."
+    "target": "Kalibreer NIET als uw BG met een aanzienlijke snelheid verandert (normaal gesproken meer dan 0.1 mmol/L per minuut). Kalibreer niet als het scherm van uw ontvanger de enkele of dubbele pijl voor stijging of daling weergeeft. Dit duidt erop dat uw BG snel stijgt of daalt. Kalibratie tijdens een aanzienlijke stijging of daling van uw BG kan de nauwkeurigheid van de sensor verstoren en kan ertoe leiden dat voorvallen van ernstige hypoglykemie (lage BG) of hyperglykemie (hoge BG) niet wordt opgemerkt."
   },
   {
     "source": "The Dexcom G6 CGM accuracy may be affected when your glucose is changing at a significant rate (i.e., 0.1 to 0.2 mmol/L/min or more than 0.2 mmol/L each minute), such as during exercise or after a meal.",
-    "target": "La précision du MCG Dexcom G6 peut être altérée lorsque votre glycémie change rapidement (par exemple, 2 à 3 mg/dL/min ou plus de 3 mg/dL par minute), comme lorsque vous faites du sport ou après un repas."
+    "target": "De nauwkeurigheid van de Dexcom G6 CGM kan worden aangetast wanneer uw bloedglucose aanzienlijk verandert (d.w.z. 0.1 tot 0.2 mmol/L/min of meer dan 0.2 mmol/L per minuut), zoals tijdens inspanning of na een maaltijd."
   },
   {
     "source": "AVOID separating the transmitter and pump by more than 6 meters (20 feet). The transmission range from the transmitter to the pump is up to 6 meters (20 feet) without obstruction. Wireless communication does not work well through water so the range is reduced if you are in a pool, bathtub, or on a water bed, etc. To ensure communication, it is suggested that you face your pump screen out and away from the body, and wear the pump on the same side of the body that you wear your CGM. Types of obstruction differ and have not been tested. If your transmitter and pump are farther than 6 meters (20 feet) apart or are separated by an obstruction, they might not communicate or the communication distance may be shorter and result in you missing severe hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "ÉVITEZ d’éloigner le transmetteur et la pompe de plus de 6 mètres (20 pieds). La plage de transmission entre le transmetteur et la pompe peut atteindre 6 mètres (20 pieds) maximum en l’absence d’obstruction. Les communications sans fil ne fonctionnent pas bien lorsque les signaux doivent traverser de l’eau : la plage est donc fortement réduite si vous vous trouvez dans une piscine, une baignoire, un lit d’eau, etc. Pour assurer la communication, il est conseillé de placer votre pompe de manière à ce que l’écran soit face au côté opposé de votre corps et de porter la pompe et le MCG du même côté. Les types d’obstruction diffèrent et n’ont pas été testés. Si votre transmetteur et votre pompe sont éloignés de plus de 6 mètres (20 pieds) ou s’ils sont séparés par une obstruction, il se peut qu’ils ne communiquent pas ou que la distance de communication soit réduite ; vous pourriez alors passer à côté d’une hypoglycémie (glycémie basse) ou d’une hyperglycémie (glycémie élevée) sévère."
+    "target": "VOORKOM dat de zender en pomp meer dan 6 meter (20 voet) van elkaar verwijderd raken. Het zendbereik van de zender naar de pomp bedraagt maximaal 6 meter (20 voet), zonder obstakels. Draadloze communicatie door water werkt niet goed, waardoor het zendbereik kleiner is in een zwembad of bad of op een waterbed enz. Voor een goede communicatie wordt aangeraden om het pompscherm van uw lichaam vandaan te richten en om de pomp aan dezelfde zij te dragen als de CGM. Er bestaan meer verschillende soorten obstakels die niet zijn getest. Als uw zender en ontvanger meer dan 6 meter (20 voet) van elkaar verwijderd zijn of worden gescheiden door een obstakel, communiceren de onderdelen mogelijk niet met elkaar of is de communicatieafstand kleiner, wat kan leiden tot het niet opmerken van voorvallen van ernstige hypoglykemie (lage BG) of hyperglykemie (hoge BG)."
   },
   {
     "source": "DO NOT use alternative BG site testing (blood from your palm or forearm, etc.) for calibration. Alternative site BG values may be different than those taken from a fingerstick BG value and may not represent the timeliest BG value. Use a BG value taken only from a fingerstick for calibration. Alternative site BG values might affect sensor accuracy and result in you missing severe hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "N’UTILISEZ PAS de tests de glycémie à partir d’autres sites (avec du sang prélevé dans la paume, l’avant-bras, etc.) pour la calibration. Les valeurs glycémiques provenant d’autres sites peuvent être différentes des valeurs glycémiques au bout du doigt, et il se peut qu’elles ne représentent pas la valeur glycémique la plus actuelle. Utilisez uniquement une valeur glycémique mesurée au bout du doigt pour la calibration. Les valeurs glycémiques provenant d’autres sites peuvent affecter la précision du capteur, et vous pourriez passer à côté d’une hypoglycémie (glycémie basse) ou d’une hyperglycémie (glycémie élevée) sévère."
+    "target": "Gebruik voor kalibratie GEEN alternatieve locaties om uw BG te meten (bloed uit uw handpalm of onderarm enz.). BG-waarden van alternatieve locaties kunnen afwijken van die van een vingerprikmeting en geven mogelijk niet de meest actuele BG-waarden weer. Gebruik voor de kalibratie alleen een BG-waarde die u met een vingerprik hebt verkregen. BG-waarden van alternatieve locaties kunnen de nauwkeurigheid van de sensor beïnvloeden en het is mogelijk dat u hierdoor ernstige hypoglykemie (lage BG) of hyperglykemie (hoge BG) niet opmerkt."
   },
   {
     "source": "ENSURE that your transmitter ID is programmed into the pump before you use the System if you receive a warranty replacement pump. The pump cannot communicate with the transmitter unless the transmitter ID is entered. If the pump and transmitter are not communicating, you will not receive sensor glucose readings and you might miss severe hypoglycemia (low BG) or hyperglycemia (high BG) events.",
-    "target": "VÉRIFIEZ que l’identifiant du transmetteur est programmé dans la pompe avant d’utiliser le système si vous recevez une pompe de remplacement dans le cadre de la garantie. La pompe ne peut pas communiquer avec le transmetteur si l’identifiant de ce dernier n’est pas saisi. Si la pompe et le transmetteur ne communiquent pas, vous ne recevez pas les mesures glycémiques du capteur et vous pourriez passer à côté d’une hypoglycémie (glycémie basse) ou d’une hyperglycémie (glycémie élevée) sévère."
+    "target": "ZORG ERVOOR dat uw zender-ID in de pomp is geprogrammeerd voordat u het systeem gaat gebruiken als u onder garantie een vervangende pomp hebt ontvangen. De pomp kan alleen communiceren met de zender als de zender-ID is ingevoerd. Als de pomp en de zender niet met elkaar communiceren, ontvangt u geen bloedglucosemetingen van uw sensor, waardoor u ernstige hypoglykemie (lage BG) of hyperglykemie (hoge BG) mogelijk niet opmerkt."
   },
   {
     "source": "DO NOT discard your transmitter. It is reusable. The same transmitter is used for each session until you have reached the end of the transmitter battery life.",
-    "target": "Ne jetez PAS votre transmetteur. Il est réutilisable. Le même transmetteur est utilisé pour chaque session jusqu’à l’épuisement de sa batterie."
+    "target": "Werp uw zender NIET weg. Deze kan opnieuw worden gebruikt. Voor iedere sessie wordt dezelfde zender gebruikt, totdat het einde van de levensduur van de zenderbatterij is bereikt."
   },
   {
     "source": "The Dexcom G6 sensor is not compatible with older versions of transmitters or receivers. Do not mix transmitters, receivers, and sensors from different generations.",
-    "target": "Le capteur Dexcom G6 n’est pas compatible avec les anciennes versions de transmetteurs ou de récepteurs. Ne mélangez pas des transmetteurs, des récepteurs et des capteurs de différentes générations."
+    "target": "De Dexcom G6-sensor kan niet met oudere versies van zenders of ontvangers worden gebruikt. Gebruik geen zenders, ontvangers en sensoren van verschillende generaties met elkaar."
   },
   {
     "source": "If you are taking hydroxyurea, your Dexcom CGM readings may be falsely elevated and result in missed hypoglycemia alerts or errors in diabetes management decisions. The level of inaccuracy depends on the amount of hydroxyurea in your body. Use your BG meter and consult with your healthcare provider about alternative glucose monitoring approaches.",
-    "target": "Si vous prenez de l’hydroxyurée, les mesures relevées par votre MCG Dexcom peuvent être faussement élevées et entraîner des alertes d’hypoglycémie manquées ou des décisions de gestion du diabète erronées. Le niveau d’imprécision dépend de la quantité d’hydroxyurée présente dans votre organisme. Utilisez votre lecteur de glycémie et consultez votre professionnel de santé au sujet d’autres approches de surveillance de la glycémie."
+    "target": "Als u hydroxyurea gebruikt, kunnen uw Dexcom CGM-metingen vals verhoogd zijn en resulteren in gemiste hypoglykemiewaarschuwingen of -foutmeldingen bij behandelingsbeslissingen voor diabetes. De mate van onnauwkeurigheid hangt af van de hoeveelheid hydroxyurea in uw lichaam. Gebruik uw BG-meter en overleg met uw zorgverlener over alternatieve benaderingen voor bloedglucosebewaking."
   },
   {
     "source": "Hydroxyurea is a medication used in the treatment of diseases including cancer and sickle cell anemia. It is known to interfere with glucose readings from the Dexcom sensor. The use of hydroxyurea will result in sensor glucose readings that are higher than actual glucose levels. The level of inaccuracy in sensor glucose readings is based on the amount of hydroxyurea in the body. Relying on sensor glucose results while taking hydroxyurea could result in missed hypoglycemia alerts or errors in diabetes management, such as giving a higher dose of insulin than necessary to correct falsely high sensor glucose values. It can also result in errors when reviewing, analyzing and interpreting historical patterns for assessing glucose control. DO NOT use the Dexcom CGM readings to make diabetes treatment decisions or assess glucose control when taking hydroxyurea.",
-    "target": "L’hydroxyurée est un médicament utilisé dans le traitement de maladies comme le cancer et la drépanocytose. Il a été démontré qu’il interfère avec les mesures glycémiques du capteur Dexcom. L’utilisation d’hydroxyurée entraînera des mesures glycémiques par le capteur supérieures aux taux réels. Le niveau d’imprécision des mesures glycémiques relevées par le capteur dépend de la quantité d’hydroxyurée présente dans l’organisme. S’appuyer sur les résultats de glycémie relevés par le capteur pendant la prise d’hydroxyurée peut entraîner des alertes d’hypoglycémie manquées ou des erreurs dans la gestion du diabète, telles que l’administration d’une dose d’insuline plus élevée que nécessaire pour corriger les valeurs glycémiques du capteur faussement élevées. Cela peut également entraîner des erreurs lors de l’examen, de l’analyse et de l’interprétation des modèles historiques d’évaluation du contrôle glycémique. N’utilisez PAS les mesures relevées par le MCG Dexcom pour prendre des décisions de traitement du diabète ou évaluer le contrôle glycémique en cas de prise d’hydroxyurée."
+    "target": "Hydroxyurea is een medicijn dat wordt gebruikt voor de behandeling van ziekten zoals kanker en sikkelcelanemie. Het is bekend dat het de bloedglucosemetingen van de Dexcom-sensor verstoort. Het gebruik van hydroxyurea zal resulteren in bloedglucosewaarden van de sensor die hoger zijn dan de werkelijke bloedglucosewaarden. De mate van onnauwkeurigheid in sensorglucosemetingen is gebaseerd op de hoeveelheid hydroxyurea in het lichaam. Uitgaan van sensorglucoseresultaten tijdens het gebruik van hydroxyurea kan leiden tot gemiste hypoglykemiewaarschuwingen of -foutmeldingen in diabetesbehandeling, zoals het geven van een hogere dosis insuline dan nodig is om vals hoge sensorglucosewaarden te corrigeren. Het kan ook leiden tot fouten bij het beoordelen, analyseren en interpreteren van historische patronen voor het beoordelen van bloedglucosecontrole. Gebruik, wanneer u hydroxyurea gebruikt, de Dexcom CGM-metingen NIET om behandelingsbeslissingen over diabetes te nemen of de bloedglucosecontrole te beoordelen."
   },
   {
     "source": "",
@@ -518,31 +518,31 @@ var linguJSON = {
   },
   {
     "source": "Potential Benefits From Using Your Pump",
-    "target": "Avantages possibles de l’utilisation de la pompe"
+    "target": "Mogelijke voordelen van het gebruik van de pomp"
   },
   {
-    "source": "• The pump provides an automated way to deliver basal and bolus insulin. Delivery can be fine-tuned based on up to six customizable Personal Profiles, each with up to 16 time-based settings for basal rate, carb ratio, correction factor, and target BG. In addition, the temp rate feature allows you to program a temporary basal rate change for up to 72 hours.",
-    "target": "• La pompe fournit un moyen automatique d’administrer l’insuline basale et en bolus. L’administration peut être réglée précisément grâce à 6 profils personnels sur mesure, disposant chacun de 16 réglages basés sur le temps pour le débit basal, le ratio glucides, le facteur de correction et la glycémie cible. De plus, la fonction Débit temporaire vous permet de programmer une modification temporaire du débit basal pendant une durée maximale de 72 heures."
+    "source": "The pump provides an automated way to deliver basal and bolus insulin. Delivery can be fine-tuned based on up to six customizable Personal Profiles, each with up to 16 time-based settings for basal rate, carb ratio, correction factor, and target BG. In addition, the temp rate feature allows you to program a temporary basal rate change for up to 72 hours.",
+    "target": " De pomp biedt een geautomatiseerde manier om basale en bolusinsuline toe te dienen. De toediening kan worden afgesteld op basis van zes aanpasbare persoonlijke profielen, elk met maximaal 16 tijdsinstellingen voor basaalsnelheid, koolhydratenratio, correctiefactor en doel-BG. Daarnaast biedt de functie Tijdelijke snelheid de mogelijkheid om een tijdelijke verandering van de basaalsnelheid te programmeren voor maximaal 72 uur."
   },
   {
-    "source": "• The pump gives you the option of delivering a bolus all at once, or delivering a percentage over an extended period of time without navigating to different menus. You can also program a bolus more discreetly using the Quick Bolus feature, which can be used without looking at the pump, and can be programmed in increments of either units of insulin or grams of carbohydrate.",
-    "target": "• La pompe propose une option permettant d’administrer un bolus en une seule fois ou d’administrer un pourcentage sur une période prolongée sans avoir à parcourir les différents menus. Vous pouvez également programmer un bolus de manière plus discrète grâce à la fonction Bolus rapide, que vous pouvez utiliser sans regarder la pompe, et que vous pouvez programmer par incréments en unités d’insuline ou en grammes de glucides."
+    "source": " The pump gives you the option of delivering a bolus all at once, or delivering a percentage over an extended period of time without navigating to different menus. You can also program a bolus more discreetly using the Quick Bolus feature, which can be used without looking at the pump, and can be programmed in increments of either units of insulin or grams of carbohydrate.",
+    "target": " De pomp biedt u de mogelijkheid om een bolus in een keer toe te dienen, of om een percentage toe te dienen over een langere periode, zonder dat u door verschillende menu’s hoeft te navigeren. U kunt een bolus ook op een discretere manier programmeren met behulp van de functie Snelle bolus, die kan worden gebruikt zonder dat u op de pomp hoeft te kijken en die kan worden geprogrammeerd in stappen van eenheden insuline of gram koolhydraten."
   },
   {
-    "source": "• From the Bolus screen, the “calculator within a calculator” feature allows you to enter multiple carbohydrate values and add them together. The insulin pump’s bolus calculator will recommend a bolus based on the entire amount of carbohydrates entered, which can help eliminate guesswork.",
-    "target": "• À partir de l’écran Bolus, la fonction de « calculateur dans un calculateur » vous permet de saisir plusieurs valeurs de glucides et de les ajouter les unes aux autres. Le calculateur de bolus de la pompe recommande un bolus basé sur la quantité totale de glucides saisie, ce qui peut aider à éliminer les conjectures."
+    "source": " From the Bolus screen, the “calculator within a calculator” feature allows you to enter multiple carbohydrate values and add them together. The insulin pump’s bolus calculator will recommend a bolus based on the entire amount of carbohydrates entered, which can help eliminate guesswork.",
+    "target": " De “calculator in een calculator”-functie op het bolusscherm geeft u de optie om meerdere koolhydratenwaarden in te voeren en ze bij elkaar op te tellen. De boluscalculator van de insulinepomp raadt een bolus aan op basis van de totale hoeveelheid ingevoerde koolhydraten, waardoor u minder hoeft te schatten."
   },
   {
-    "source": "• The pump keeps track of the amount of active insulin from food and correction boluses (IOB). When programming additional food or correction boluses, the pump will subtract the amount of IOB from the recommended bolus if your BG is below the target set in your active Personal Profile. This can help prevent insulin stacking, which can lead to hypoglycemia (low BG).",
-    "target": "• La pompe garde une trace de la quantité d’insuline active à partir des bolus repas et des bolus de correction (IA). Lors de la programmation de bolus repas ou de bolus de correction supplémentaires, la pompe soustrait la quantité d’IA du bolus recommandé si votre glycémie est inférieure à la valeur cible définie dans votre profil personnel en cours. Cela peut aider à éviter l’accumulation d’insuline, qui pourrait entraîner une hypoglycémie (glycémie basse)."
+    "source": " The pump keeps track of the amount of active insulin from food and correction boluses (IOB). When programming additional food or correction boluses, the pump will subtract the amount of IOB from the recommended bolus if your BG is below the target set in your active Personal Profile. This can help prevent insulin stacking, which can lead to hypoglycemia (low BG).",
+    "target": " De pomp registreert de hoeveelheid actieve insuline (AI) van voedingsen correctiebolussen. Tijdens het programmeren van extra voedingsof correctiebolussen trekt de pomp de hoeveelheid AI af van de aanbevolen bolus indien uw BG lager is dan het doel dat is ingesteld in uw actieve persoonlijk profiel. Dit helpt bij het voorkomen van het ophopen van insuline, wat tot hypoglykemie (lage BG) kan leiden."
   },
   {
-    "source": "• You can program a number of reminders that will prompt you to retest your BG after a low or high BG is entered, as well as a “Missed Meal Bolus Reminder” which will alert you if a bolus isn’t entered during a specified period of time. If activated, these can help reduce the likelihood that you will forget to check your BG or bolus for meals.",
-    "target": "• Vous pouvez programmer un certain nombre de rappels qui vous demanderont de tester à nouveau votre glycémie après la saisie d’une valeur de glycémie faible ou élevée, ainsi qu’un « Rappel oubli bolus repas » qui vous alerte si vous n’avez pas saisi de bolus pendant une période donnée. Si ces rappels sont activés, ils peuvent vous aider à réduire le risque d’oublier de vérifier votre glycémie ou votre bolus pour les repas."
+    "source": " You can program a number of reminders that will prompt you to retest your BG after a low or high BG is entered, as well as a “Missed Meal Bolus Reminder” which will alert you if a bolus isn’t entered during a specified period of time. If activated, these can help reduce the likelihood that you will forget to check your BG or bolus for meals.",
+    "target": " U kunt een aantal herinneringen programmeren waardoor u de oproep ontvangt om uw BG opnieuw te testen nadat een lage of hoge BG is ingevoerd, evenals “een herinnering voor gemiste maaltijdbolus”, die u waarschuwt als een bolus niet is ingevoerd tijdens een specifieke periode. Wanneer deze zijn geactiveerd, kan dat de kans verkleinen dat u uw BG of bolus voor maaltijden vergeet te controleren."
   },
   {
-    "source": "• You have the ability to view a variety of data right on your screen, including the time and amount of your last bolus, your total insulin delivery by day, as well as broken into basal, food bolus, and correction bolus.",
-    "target": "• Vous avez la possibilité d’afficher diverses données directement sur votre écran, notamment l’heure et la quantité de votre dernier bolus, le total de votre administration d’insuline par jour, ainsi qu’une répartition par bolus basal, bolus repas et bolus de correction."
+    "source": " You have the ability to view a variety of data right on your screen, including the time and amount of your last bolus, your total insulin delivery by day, as well as broken into basal, food bolus, and correction bolus.",
+    "target": " U hebt de mogelijkheid om uiteenlopende gegevens op uw scherm te bekijken, inclusief het tijdstip en hoeveelheid van uw laatste bolus, de totale toediening van insuline per dag en opgesplitst in basaal, voedingsbolus en correctiebolus."
   },
   {
     "source": "",
@@ -550,15 +550,15 @@ var linguJSON = {
   },
   {
     "source": "Potential Benefits From Using the t:slim X2 System",
-    "target": "Avantages possibles de l’utilisation du système t:slim X2"
+    "target": "Mogelijke voordelen van gebruik van het t:slim X2-systeem"
   },
   {
     "source": "When paired with Dexcom G6 transmitter and sensor, your pump can receive CGM readings every 5 minutes, which are displayed as a trend graph on the Home screen. You can also program your pump to alert you when your CGM readings are above or below a given level, or are rising or falling quickly. Unlike the readings from a standard blood glucose meter, CGM readings allow you to view trends in real time, as well as capture information when you would otherwise be unable to check your blood sugar, such as while you are asleep. This information can be useful for you and your healthcare provider when considering changes to your therapy. In addition, the programmable alerts can help you to spot potential low or high BG sooner than you would using a only a blood glucose meter.",
-    "target": "Quand elle est appariée au capteur et au transmetteur Dexcom G6, votre pompe peut recevoir des mesures du MCG toutes les 5 minutes. Celles-ci sont affichées sous la forme d’un graphique de tendances sur l’écran Accueil du MCG. Vous pouvez également programmer votre pompe pour qu’elle vous alerte lorsque vos mesures MCG sont supérieures ou inférieures à un niveau donné ou si elles augmentent ou diminuent rapidement. Contrairement aux mesures d’un lecteur de glycémie standard, les mesures du MCG vous permettent d’afficher les tendances en temps réel, ainsi que de capturer des informations aux moments où vous ne seriez autrement pas en mesure de vérifier votre glycémie, par exemple pendant que vous dormez. Ces informations sont utiles pour vous et pour votre professionnel de santé lorsque vous envisagez des changements de traitement. Par ailleurs, les alertes programmables peuvent vous aider à repérer les incidents potentiels d’hypoglycémie et d’hyperglycémie plus rapidement qu’en utilisant seulement un lecteur de glycémie."
+    "target": "Wanneer uw pomp is gekoppeld met de Dexcom G6-zender en sensor, kan uw pomp om de 5 minuten CGM-waarden ontvangen, die als een trendgrafiek worden weergegeven op het CGM-startscherm. U kunt uw pomp ook programmeren om u te waarschuwen wanneer uw CGM-waarden boven of onder een bepaald niveau komen, of snel stijgen of dalen. Anders dan bij de waarden van een standaard bloedglucosemeter kunt u met CGM-waarden onmiddellijk trends zien. Ook kunt u waarden registreren op momenten waarop u niet in staat bent om uw bloedglucose te controleren, bijvoorbeeld wanneer u slaapt. Deze informatie kan nuttig zijn voor u en uw zorgverlener wanneer u overweegt om wijzigingen aan te brengen in uw behandeling. Bovendien helpen de programmeerbare waarschuwingen u om mogelijk lage of hoge bloedglucose eerder op te merken dan wanneer u alleen een bloedglucosemeter gebruikt."
   },
   {
     "source": "In some studies, CGM was shown to increase time in the target glucose range, without increasing time above or below the target range. Subjects in these studies had better diabetes control (lowered A1C values, reduced glycemic variability and time spent in low and high BG ranges)1, 2, 3 which can help reduce diabetes related complications.4, 5 These benefits can be seen especially with using real-time CGM at least 6 days per week2 and were sustained over time.6 In some cases, patients perceived an increase in their quality of life and peace of mind when using real-time CGM as well as reporting a high satisfaction with CGM.7",
-    "target": "Il a été prouvé dans certaines études que l’utilisation du MCG permet d’augmenter le temps dans la plage de glycémie cible. Les patients inclus dans ces études avaient un meilleur contrôle de leur diabète (valeurs A1C plus basses, réduction de la variabilité glycémique et du temps passé dans les plages de glycémie faible et élevée)1, 2, 3, ce qui peut aider à réduire les complications associées au diabète.4, 5 Ces avantages particulièrement visibles lors de l’utilisation du MCG en temps réel pendant au moins six jours par semaine2 étaient maintenus dans le temps.6 Dans certains cas, les patients ont perçu une amélioration de leur qualité de vie et de leur tranquillité d’esprit lorsqu’ils utilisaient le MCG en temps réel. Ils ont également indiqué une satisfaction élevée concernant le MCG.7"
+    "target": "Sommige onderzoeken hebben aangetoond dat de CGM ertoe leidt dat u een groter deel van de tijd doorbrengt binnen uw bloedglucosedoelbereik. Proefpersonen in deze onderzoeken ondervonden betere diabetesbeheersing (lagere A1C-waarden, lagere glykemische variabiliteit en minder tijd in hoge en lage BG-bereiken),1, 2, 3 wat kan bijdragen aan het verminderen van diabetesgerelateerde complicaties.4, 5 Deze voordelen kunnen vooral worden waargenomen wanneer CGM minimaal zes dagen per week wordt gebruikt2 en kunnen langdurig in stand worden gehouden.6 In sommige gevallen ondervonden patiënten een hogere levenskwaliteit en meer gemoedsrust bij het gebruik van realtime CGM, naast een hoge mate van tevredenheid met CGM.7"
   },
   {
     "source": "",
@@ -570,35 +570,35 @@ var linguJSON = {
   },
   {
     "source": "Possible Risks From Using Your Pump",
-    "target": "Risques possibles liés à l’utilisation de votre pompe"
+    "target": "Mogelijke risico's van het gebruik van de pomp"
   },
   {
     "source": "As with any medical device, there are risks associated with using your pump. Many of the risks are common to insulin therapy in general, but there are additional risks associated with continuous insulin infusion and continuous glucose monitoring. Reading your user guide and following the instructions for use are critical for the safe operation of your System. Consult your healthcare provider about how these risks may impact you.",
-    "target": "Comme pour tout autre dispositif médical, il existe des risques associés à l’utilisation de votre pompe. Un grand nombre des risques sont communs à l’insulinothérapie en général, mais il existe des risques supplémentaires associés à la perfusion continue d’insuline et à la surveillance en continu de la glycémie. La lecture de votre guide d’utilisation et le respect du mode d’emploi sont essentiels pour l’utilisation de votre système en toute sécurité. Consultez votre professionnel de santé pour savoir comment ces risques peuvent vous affecter."
+    "target": "Zoals bij alle medische apparaten het geval is, zijn er risico’s verbonden aan het gebruik van de pomp. Veel van deze risico’s zijn kenmerkend voor insulinetherapie in het algemeen, maar er zijn aanvullende risico’s verbonden aan de continue infusie van insuline en continue glucosemonitoring. Voor een veilig gebruik van uw systeem is het essentieel dat u de gebruikershandleiding leest en de instructies voor gebruik volgt. Bespreek met uw zorgverlener hoe deze risico’s op u van toepassing kunnen zijn."
   },
   {
     "source": "Inserting and wearing an infusion set might cause infection, bleeding, pain or skin irritations (redness, swelling, bruising, itching, scarring, or skin discoloration).",
-    "target": "L’insertion et le port d’un kit de perfusion peuvent provoquer des infections, des saignements, des douleurs ou des irritations cutanées (rougeurs, gonflements, contusions, démangeaisons, cicatrices ou décoloration de la peau)."
+    "target": "Het inbrengen en dragen van een infusieset kan infectie, bloeden, pijn of huidirritatie (roodheid, zwelling, kneuzing, jeuk, littekenvorming of huidverkleuring) veroorzaken."
   },
   {
     "source": "There is a remote chance that an infusion set cannula fragment could remain under your skin if the cannula breaks while you are wearing it. If you think a cannula has broken under your skin, contact your healthcare provider and call your local customer support.",
-    "target": "Il existe une faible probabilité qu’un fragment de la canule du kit de perfusion reste sous la peau si la canule se casse pendant que vous la portez. Si vous pensez qu’une canule s’est cassée sous votre peau, contactez votre professionnel de santé et appelez le service d’assistance à la clientèle local."
+    "target": "Er bestaat een kleine kans dat een deel van een canule van een infusieset onder uw huid achterblijft wanneer de canule breekt tijdens het dragen. Als u denkt dat een canule onder uw huid is gebroken, neem dan contact op met uw zorgverlener en bel de klantenservice in uw regio."
   },
   {
     "source": "Other risks associated with infusion sets include occlusions and air bubbles in the tubing or dislodged cannula, which can affect insulin delivery. If your BG does not decrease after initiating a bolus, or you have other unexplained high BG, it is recommended that you check your infusion set for an occlusion or air bubbles, and verify that the cannula has not dislodged. If the condition persists, call your local customer support or seek medical attention as required.",
-    "target": "Les autres risques associés aux sets de perfusion comprennent des obstructions et des bulles d’air dans la tubulure ou le déplacement de la canule, ce qui peut affecter l’administration d’insuline. Si votre glycémie ne baisse pas après le démarrage d’un bolus ou si vous avez une autre glycémie élevée inexpliquée, il est recommandé de vérifier que votre kit de perfusion ne présente aucune occlusion ou bulle d’air, et que la canule ne s’est pas délogée. Si le problème persiste, appelez votre service client ou demandez conseil à un médecin, le cas échéant."
+    "target": "Andere risico’s in verband met het gebruik van infusiesets zijn occlusies en luchtbellen in de slang, waardoor de toediening van insuline kan worden gehinderd. Als uw BG niet afneemt na het starten van een bolus, of als u een andere onverklaarbare hoge BG heeft, is het raadzaam om uw infusieset te controleren op verstopping of luchtbellen en te controleren of de canule niet is losgeraakt. Als de toestand aanhoudt, bel dan de klantenservice in uw regio of zoek zo nodig medische hulp."
   },
   {
     "source": "Risks that could result from pump failure include the following:",
-    "target": "Les risques pouvant découler d’une défaillance de la pompe sont notamment les suivants :"
+    "target": "De volgende risico’s kunnen het gevolg zijn van een defecte pomp:"
   },
   {
-    "source": "• possible hypoglycemia (low BG) from over-delivery of insulin due to a hardware defect or software anomaly.",
-    "target": "• possibilité d’hypoglycémie (glycémie basse) en raison d’une administration excessive d’insuline causée par un défaut matériel ou une anomalie logicielle ;"
+    "source": " possible hypoglycemia (low BG) from over-delivery of insulin due to a hardware defect or software anomaly.",
+    "target": " kans op hypoglykemie (lage BG) door een te hoge toediening van insuline als gevolg van een hardwaredefect of een softwarefout."
   },
   {
-    "source": "• hyperglycemia (high BG) and ketosis possibly leading to Diabetic Ketoacidosis (DKA) due to pump failure resulting in cessation of insulin delivery due to either a hardware defect, software anomaly, or infusion set failure. Having a backup method of insulin delivery greatly reduces your risk of severe hyperglycemia or DKA.",
-    "target": "• possibilité d’hyperglycémie (glycémie élevée) et de cétose pouvant entraîner une acidocétose diabétique (DKA) en raison d’une défaillance de la pompe provoquant l’arrêt de l’administration d’insuline dû à un défaut matériel, une anomalie logicielle ou la défaillance du kit de perfusion. Le fait de disposer d’une méthode d’administration d’insuline alternative réduit considérablement le risque d’hyperglycémie grave ou d’acidocétose diabétique."
+    "source": " hyperglycemia (high BG) and ketosis possibly leading to Diabetic Ketoacidosis (DKA) due to pump failure resulting in cessation of insulin delivery due to either a hardware defect, software anomaly, or infusion set failure. Having a backup method of insulin delivery greatly reduces your risk of severe hyperglycemia or DKA.",
+    "target": " hyperglykemie (hoge BG) en ketose, mogelijk met diabetische ketoacidose (DKA) als gevolg van een storing van de pomp en het stoppen van de insulinetoediening door een hardwaredefect, een softwarefout of een storing in de infusieset. Het hebben van een back-upmethode voor insulinetoediening vermindert het risico op ernstige hyperglykemie of DKA aanzienlijk."
   },
   {
     "source": "",
@@ -606,27 +606,27 @@ var linguJSON = {
   },
   {
     "source": "Possible Risks From Using the t:slim X2 System",
-    "target": "Risques possibles associés à l’utilisation du système t:slim X2"
+    "target": "Mogelijke risico’s van gebruik van het t:slim X2-systeem"
   },
   {
     "source": "Inserting the sensor and wearing the adhesive patch might cause infection, bleeding, pain and skin irritations (readiness, swelling, bruising, itching, scarring, or skin discoloration).",
-    "target": "L’insertion du capteur et le port de la base adhésive peuvent provoquer des infections, des saignements, des douleurs et des irritations cutanées (rougeurs, gonflements, contusions, démangeaisons, cicatrices ou décoloration de la peau)."
+    "target": "Het inbrengen van de sensor en het dragen van de plakker kunnen infectie, bloeden, pijn en huidirritatie (roodheid, zwelling, kneuzing, jeuk, littekenvorming of huidverkleuring) veroorzaken."
   },
   {
     "source": "There is a remote chance that a sensor wire fragment could remain under your skin if the sensor wire breaks while you are wearing it. If you think a sensor wire has broken under your skin, contact your healthcare provider and call your local customer support.",
-    "target": "Il existe une faible probabilité qu’un fragment du fil du capteur reste sous la peau si le fil du capteur se casse pendant que vous le portez. Si vous pensez qu’un fil de capteur s’est cassé sous votre peau, contactez votre professionnel de santé et appelez votre service client."
+    "target": "Er bestaat een kleine kans dat een fragment van een sensordraad onder uw huid achterblijft als de sensordraad breekt terwijl u deze draagt. Als u denkt dat er een sensordraad onder uw huid is gebroken, neem dan contact op met uw zorgverlener en bel de klantenservice in uw regio."
   },
   {
     "source": "Other risks associated with CGM use include the following:",
-    "target": "Les autres risques associés à l’utilisation du MCG sont les suivants :"
+    "target": "Andere risico’s in verband met het gebruik van CGM zijn:"
   },
   {
-    "source": "• You will not get sensor glucose alerts when the alert function is turned off, your transmitter and pump are out of range, or when your pump is not showing sensor glucose readings. You might not notice alerts if you are unable to hear them or feel the vibration.",
-    "target": "• Vous ne recevez pas les alertes de glucose du capteur lorsque la fonction d’alerte est désactivée, lorsque votre transmetteur et votre pompe sont hors de la plage de couverture, ou lorsque votre pompe n’affiche pas les mesures de glucose du capteur. Il se peut que vous ne remarquiez pas les alertes si vous ne les entendez pas ou si vous ne sentez pas les vibrations."
+    "source": " You will not get sensor glucose alerts when the alert function is turned off, your transmitter and pump are out of range, or when your pump is not showing sensor glucose readings. You might not notice alerts if you are unable to hear them or feel the vibration.",
+    "target": " u ontvangt geen bloedglucosewaarschuwingen van uw sensor wanneer de waarschuwingsfunctie is uitgeschakeld, uw zender en pomp buiten bereik zijn of wanneer uw pomp geen sensorglucosemetingen weergeeft. Het is mogelijk dat u waarschuwingen niet opmerkt als u ze niet kunt horen of de trilling niet voelt."
   },
   {
-    "source": "• There are a number of risks as a result of the fact that the Dexcom G6 CGM takes readings from fluid below the skin (interstitial fluid) instead of blood. There are differences in how glucose is measured in the blood compared to how it is measured in interstitial fluid, and glucose is absorbed into the interstitial fluid slower than it is absorbed into the blood, which can cause CGM readings to lag behind readings from a BG meter.",
-    "target": "• Il existe un certain nombre de risques associés au fait que le MCG Dexcom G6 effectue les mesures dans le liquide sous-cutané (liquide interstitiel) au lieu du sang. Il existe des différences entre la manière dont la glycémie est mesurée dans le sang et dans le liquide interstitiel, et le glucose est absorbé plus lentement dans le liquide interstitiel que dans le sang, ce qui peut entraîner un retard des résultats du MCG par rapport aux mesures d’un lecteur de glycémie."
+    "source": " There are a number of risks as a result of the fact that the Dexcom G6 CGM takes readings from fluid below the skin (interstitial fluid) instead of blood. There are differences in how glucose is measured in the blood compared to how it is measured in interstitial fluid, and glucose is absorbed into the interstitial fluid slower than it is absorbed into the blood, which can cause CGM readings to lag behind readings from a BG meter.",
+    "target": " Er zijn een aantal risico’s in verband met het feit dat de Dexcom G6 CGM metingen uitvoert op de vloeistof onder de huid (interstitiële vloeistof) in plaats van bloed. Er zijn verschillen tussen de manier waarop glucose wordt gemeten in bloed en hoe deze wordt gemeten in interstitiële vloeistof. Bloedglucose wordt langzamer opgenomen in de interstitiële vloeistof dan in het bloed, waardoor CGM-waarden kunnen achterlopen op de waarden van een BG-meter."
   },
   {
     "source": "",
@@ -634,15 +634,15 @@ var linguJSON = {
   },
   {
     "source": "Working with your Healthcare Provider",
-    "target": "Collaboration avec votre professionnel de santé"
+    "target": "Samenwerken met uw zorgverlener"
   },
   {
     "source": "Any clinical language presented in this user guide is based on the assumption that you have been educated by your healthcare provider on certain terms and how they apply to you in your diabetes management. Your healthcare provider can help you establish diabetes management guidelines that best fit your lifestyle and needs.",
-    "target": "Tous les termes médicaux présents dans ce guide d’utilisation reposent sur la supposition que votre professionnel de santé vous a instruit sur certains termes et sur la manière dont ils vous concernent dans le cadre de la gestion de votre diabète. Votre professionnel de santé peut vous aider à établir des principes de gestion du diabète adaptés à votre style de vie et à vos besoins."
+    "target": "Alle klinische taal die wordt gebruikt in deze gebruikershandleiding is gebaseerd op de aanname dat uw zorgverlener bepaalde termen aan u heeft uitgelegd en heeft uitgelegd hoe deze van toepassing zijn op uw diabetesbehandeling. Uw zorgverlener kan u helpen met het bepalen van richtlijnen voor diabetesbehandeling die het beste aansluiten bij uw levensstijl en behoeften."
   },
   {
     "source": "Consult your healthcare provider before using the pump to determine which features are most appropriate for you. Only your healthcare provider can determine and help you adjust your basal rate(s), insulin-to-carbohydrate ratio(s), correction factor(s), target BG, and duration of insulin action. In addition, only your healthcare provider can determine your CGM settings and how you should use your sensor trend information to help you manage your diabetes.",
-    "target": "Consultez votre professionnel de santé avant d’utiliser la pompe afin de déterminer les fonctionnalités qui vous conviennent le mieux. Seul votre professionnel de santé peut déterminer et vous aider à régler votre (vos) débit(s) basal (basaux), votre (vos) taux insulineglucides, votre (vos) facteur(s) de correction, votre glycémie cible et la durée de l’action de l’insuline. Par ailleurs, seul votre professionnel de santé peut déterminer les réglages de votre MCG et la manière dont vous devez utiliser les informations de tendances de votre capteur pour vous aider à gérer votre diabète."
+    "target": "Bespreek met uw zorgverlener welke functies voor u het meest geschikt zijn voordat u de pomp gaat gebruiken. Alleen uw zorgverlener kan uw basaalsnelheid/-snelheden, insuline-koolhydratenratio(s), correctiefactor(en), BG-doel en duur van de insulinewerking bepalen en u helpen met het aanpassen daarvan. Bovendien kan alleen uw zorgverlener bepalen wat uw CGM-instellingen horen te zijn en hoe u de trendgegevens van uw sensor moet gebruiken bij de behandeling van uw diabetes."
   },
   {
     "source": "",
@@ -650,51 +650,51 @@ var linguJSON = {
   },
   {
     "source": "Emergency Kit",
-    "target": "Trousse de secours"
+    "target": "Noodpakket"
   },
   {
     "source": "Make sure that you always have an insulin syringe and vial of insulin or a prefilled insulin pen with you as a backup for emergency situations. You should also always have an appropriate emergency kit with you. Talk with your healthcare provider regarding what items this kit should include.",
-    "target": "Assurez-vous de toujours disposer d’une seringue d’insuline et d’un flacon d’insuline ou d’un stylo à insuline prérempli comme schéma de remplacement en cas d’urgence. Vous devez également toujours avoir une trousse de secours appropriée avec vous. Parlez avec votre professionnel de santé pour connaître les éléments que cette trousse doit contenir."
+    "target": "Zorg dat u altijd een insulinespuit en een flacon met insuline of een voorgevulde insulinepen bij u draagt als alternatief voor noodsituaties. U moet ook altijd een geschikt noodpakket bij u dragen. Overleg met uw zorgverlener welke artikelen dit pakket moet bevatten."
   },
   {
     "source": "Supplies to carry every day:",
-    "target": "Matériel à porter sur soi tous les jours :"
+    "target": "Benodigdheden die u elke dag bij u dient te hebben:"
   },
   {
-    "source": "•BG testing supplies: meter, strips, control solution, lancets, meter batteries",
-    "target": "• matériel de test de glycémie : lecteur, bandelettes, solution de contrôle, lancettes, batteries pour le lecteur ;"
+    "source": "BG testing supplies: meter, strips, control solution, lancets, meter batteries",
+    "target": " Benodigdheden voor het testen van BG: meter, strips, controleoplossing, lancetten, batterijen voor de meter"
   },
   {
-    "source": "•Fast-acting carbohydrate to treat low BG",
-    "target": "• glucides rapides pour traiter une hypoglycémie ;"
+    "source": "Fast-acting carbohydrate to treat low BG",
+    "target": " Snelwerkende koolhydraten om lage BG te behandelen"
   },
   {
-    "source": "•Extra snack for longer coverage than fast-acting carbohydrate",
-    "target": "• collation supplémentaire pour une couverture plus longue que les glucides rapides ;"
+    "source": "Extra snack for longer coverage than fast-acting carbohydrate",
+    "target": " Extra snack voor een langer effect dan snelwerkende koolhydraten"
   },
   {
-    "source": "•Glucagon emergency kit",
-    "target": "• trousse de secours de glucagon ;"
+    "source": "Glucagon emergency kit",
+    "target": " Noodpakket met glucagon"
   },
   {
-    "source": "•Rapid-acting insulin and syringes or a prefilled insulin pen",
-    "target": "• insuline rapide et seringues ou stylo à insuline préremplis ;"
+    "source": "Rapid-acting insulin and syringes or a prefilled insulin pen",
+    "target": " Flacon met snelwerkende insuline en spuiten of een voorgevulde insulinepen"
   },
   {
-    "source": "•Infusion sets (minimum of 2)",
-    "target": "• kits de perfusion (au moins 2) ;"
+    "source": "Infusion sets (minimum of 2)",
+    "target": " Infusiesets (minimaal 2 stuks)"
   },
   {
-    "source": "•Insulin pump cartridges (minimum of 2)",
-    "target": "• réservoirs pour la pompe à insuline (au moins 2) ;"
+    "source": "Insulin pump cartridges (minimum of 2)",
+    "target": " Reservoirs voor de insulinepomp (minimaal 2 stuks)"
   },
   {
-    "source": "•Infusion site preparation products (antiseptic wipes, skin adhesive)",
-    "target": "• produits de préparation du site de perfusion (lingettes antiseptiques, colle cutanée) ;"
+    "source": "Infusion site preparation products (antiseptic wipes, skin adhesive)",
+    "target": " Producten om de infusieplaats voor te bereiden (antiseptische doekjes, huidkleefmiddel)"
   },
   {
-    "source": "•Diabetes identification card or jewelry",
-    "target": "• carte ou bijou d’identification du diabète."
+    "source": "Diabetes identification card or jewelry",
+    "target": " Diabetesidentificatiekaart of -sieraad"
   },
   {
     "source": "",
@@ -702,47 +702,47 @@ var linguJSON = {
   },
   {
     "source": "Verification of Proper Functionality",
-    "target": "Vérification du bon fonctionnement"
+    "target": "Verificatie van een goede functionaliteit"
   },
   {
     "source": "A power supply (AC adapter with micro-USB connector) is provided with your pump. Before using your pump, ensure that the following occur when you connect a power supply into the USB port of your pump:",
-    "target": "Une alimentation électrique (adaptateur CA avec connecteur micro-USB) est fournie avec votre pompe. Avant d’utiliser votre pompe, vérifiez que les phénomènes suivants se produisent lorsque vous branchez une alimentation électrique au port USB de votre pompe :"
+    "target": "Er wordt een elektrische voeding (netadapter met micro-USB-connector) met de pomp meegeleverd. Controleer of het volgende gebeurt wanneer u uw voedingseenheid aansluit op de USB-poort van uw pomp voordat u de pomp gaat gebruiken:"
   },
   {
-    "source": "• You hear an audible alert",
-    "target": "• vous entendez une alerte sonore ;"
+    "source": " You hear an audible alert",
+    "target": " U hoort een geluidswaarschuwing"
   },
   {
-    "source": "• You see the green light illuminate from the edge around the Screen On/Quick Bolus button",
-    "target": "• vous voyez le témoin vert s’allumer au bord du bouton Écran allumé/Bolus rapide ;"
+    "source": " You see the green light illuminate from the edge around the Screen On/Quick Bolus button",
+    "target": " U ziet het groene licht om de rand van de knop Scherm aan/Snelle bolus oplichten"
   },
   {
-    "source": "• You feel a vibratory alert",
-    "target": "• vous sentez une vibration d’alerte ;"
+    "source": " You feel a vibratory alert",
+    "target": " U voelt een waarschuwing in de vorm van een trilling"
   },
   {
-    "source": "• You see a charge symbol (lightning bolt) on the battery level indicator",
-    "target": "• vous voyez un symbole de chargement (éclair) sur l’indicateur du niveau de charge de la batterie."
+    "source": " You see a charge symbol (lightning bolt) on the battery level indicator",
+    "target": " U ziet een laadsymbool (bliksemflits) op de batterijniveau-indicator"
   },
   {
     "source": "In addition, before using your pump, ensure the following:",
-    "target": "Par ailleurs, avant d’utiliser la pompe, procédez aux vérifications suivantes :"
+    "target": "Controleer daarnaast het volgende voordat u de pomp gebruikt:"
   },
   {
-    "source": "• Press the Screen On/Quick Bolus button to turn the screen on so that you can see the display",
-    "target": "• appuyez sur le bouton Écran allumé/Bolus rapide pour activer l’écran afin de voir l’affichage ;"
+    "source": " Press the Screen On/Quick Bolus button to turn the screen on so that you can see the display",
+    "target": " Druk op de knop Scherm aan/Snelle bolus om het scherm aan te zetten zodat u de weergave kunt zien"
   },
   {
-    "source": "• When the display screen is on, the touchscreen responds to your finger tap",
-    "target": "• lorsque l’écran est allumé, vérifiez que l’écran tactile réagit lorsque vous le touchez du doigt."
+    "source": " When the display screen is on, the touchscreen responds to your finger tap",
+    "target": " Wanneer het weergavescherm aan is, reageert het aanraakscherm op aanrakingen van uw vingers"
   },
   {
     "source": "/!\\ PRECAUTION",
-    "target": "/!\\ PRÉCAUTION"
+    "target": "/!\\ VOORZORGSMAATREGEL"
   },
   {
     "source": "CONFIRM that the screen display turns on, you can hear audible beeps, feel the pump vibrate, and see the green LED light blinking around the edge of the Screen On/Quick Bolus button when you connect a power source to the USB port. These features are used to notify you about alerts, alarms, and other conditions that require your attention. If these features are not working, discontinue use of your pump and contact your local customer support.",
-    "target": "VÉRIFIEZ que l’écran s’allume, que vous pouvez entendre les signaux sonores, que vous sentez les vibrations de la pompe et que vous voyez la DEL verte clignoter sur le contour du bouton Écran allumé/Bolus rapide lorsque vous branchez une source d’alimentation au port USB. Ces fonctions servent à vous informer sur les alertes, les alarmes et d’autres anomalies nécessitant votre attention. Si ces fonctions sont inopérantes, cessez d’utiliser la pompe et contactez votre service client."
+    "target": "CONTROLEER of het scherm inschakelt, u pieptonen hoort, de pomp voelt trillen en de groene led ziet knipperen rond de rand van de knop Scherm aan/Snelle bolus wanneer u een energiebron aansluit op de USB-poort. Deze functies worden gebruikt om u op de hoogte te stellen van waarschuwingen, alarmen en andere situaties die uw aandacht vereisen. Staak het gebruik van uw pomp en neem contact op met de klantenservice in uw regio als deze functies niet werken."
   },
   {
     "source": "",
@@ -750,19 +750,19 @@ var linguJSON = {
   },
   {
     "source": "Wireless Co-existence and Data Security",
-    "target": "Coexistence de systèmes sans fil et sécurité des données"
+    "target": "Draadloze co-existentie en gegevensbeveiliging"
   },
   {
     "source": "The System is designed to work safely and effectively in the presence of wireless devices typically found at home, work, retail stores, and places of leisure where daily activities occur. See Section 33.9 Distances Between the t:slim X2 Pump and RF Equipment for more information.",
-    "target": "Le système est conçu pour fonctionner de manière sûre et efficace en présence des dispositifs sans fil généralement rencontrés dans les maisons, les bureaux, les magasins et les lieux de loisirs où se déroulent les activités du quotidien. Reportez-vous à la section 33.9 Distances entre la pompe t:slim X2 et l’équipement RF pour plus d’informations."
+    "target": "Het systeem is ontworpen om veilig en effectief te werken in de nabijheid van draadloze apparaten die veel thuis, op het werk, in winkels en op locaties voor vrijetijdsbesteding waar mensen hun dag doorbrengen voorkomen. Zie deel 33.9 Afstanden tussen de t:slim X2-pomp en RF-apparatuur voor meer informatie."
   },
   {
     "source": "The System is designed to send and accept Bluetooth wireless technology communication. Communication is not established until you enter the appropriate credentials into your pump.",
-    "target": "Le système est conçu pour envoyer et accepter une communication par technologie sans fil Bluetooth. La communication n’est pas établie tant que vous n’avez pas entré les informations d’identification appropriées dans votre pompe."
+    "target": "Het systeem is ontworpen voor verzending en ontvangst van Bluetooth draadloze technologie-communicatie. De communicatie wordt pas tot stand gebracht als de juiste aanmeldgegevens op de pomp zijn ingevoerd."
   },
   {
     "source": "The System and system components ensure data security via proprietary means and ensure data integrity using error checking processes, such as cyclic redundancy checks.",
-    "target": "Le système et ses composants garantissent la sécurité des données grâce à des méthodes exclusives et assurent l’intégrité des données au moyen de processus de vérification des erreurs, notamment les contrôles cycliques de redondance."
+    "target": "Het systeem en de systeemcomponenten zorgen voor gegevensbeveiliging via bedrijfseigen methoden en staan garant voor gegevensintegriteit door middel van foutcontroleprocessen zoals cyclische-redundantiecontroles."
   },
   {
     "source": "",
@@ -779,10 +779,6 @@ var linguJSON = {
   {
     "source": "Remove text?",
     "target": "Remove text?"
-  },
-  {
-    "source": "Back to Top >>",
-    "target": "Haut de page >>"
   }
 ]
  };
