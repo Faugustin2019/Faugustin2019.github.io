@@ -785,8 +785,8 @@ var linguJSON = {
       "target":"OBSAH"
    },
    {
-      "source":"Back to Top >>",
-      "target":"Zpět na začátek >>"
+      "source":"Back to Top",
+      "target":"Zpět na začátek"
    }
 ]
  };
