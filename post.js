@@ -785,10 +785,13 @@ var linguJSON = {
     "source": "CONTENTS",
     "target": "CONTENIDOS"
   },
-
-    {
+  {
     "source": "Back to Top &gt;&gt;",
     "target": "Volver al principio &gt;&gt;"
+  },
+  {  
+   "source": "Back to Top >>";,
+   "target": "Volver al principio &gt;&gt;"
   }
 ]
  };
