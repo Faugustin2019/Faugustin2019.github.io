@@ -787,8 +787,8 @@ var linguJSON = {
   },
 
     {
-    "source": "Back to Top &gt;&gt; ",
-    "target": "Volver al principio &gt;&gt; "
+    "source": "Back to Top &gt;&gt;",
+    "target": "Volver al principio &gt;&gt;"
   }
 ]
  };
