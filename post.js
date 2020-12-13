@@ -9,8 +9,9 @@ var linguJSON = {
       "lang_name":"Spanish",
       "lang_code":"es",
       "url_pattern":"?"
-   },
-]
+   }
+   ],
+
     "translated_segments":  [
    {
       "source":"t:slim X2™ Insulin Pump with Control-IQ™ Technology",
