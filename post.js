@@ -787,7 +787,7 @@ var linguJSON = {
    },
    {
       "source":"Back to Top >>",
-      "target":"Tilbake til toppen &gt;&gt;"
+      "target":"Tilbake til toppen >>"
    }
 ]
  };
